@@ -115,23 +115,38 @@ ai-shopping-avatar/ legacy prototype kept as reference
 ## Screenshots
 
 
-### AI Avatar Profile
+## Avatar Profile
 
-`docs/screenshots/avatar-profile.png.png`
-`docs/screenshots/price-tracker.png.png`
+![Avatar Profile](docs/screenshots/avatar-profile.png.png)
+---
 
-### Storefront
+## Storefront
 
-`docs/screenshots/storefront.png.png`
+![Storefront](docs/screenshots/storefront.png.png)
 
-### Execution Logs
+---
+## Price Tracker
 
-`docs/screenshots/execution-logs.png.png`
+![Price Tracker](docs/screenshots/price-tracker.png.png)
 
-### Benchmark Page
+---
 
-`docs/screenshots/benchmarks1.png.png`
-`docs/screenshots/benchmarks2.png.png`
+## Benchmarks
+
+![Benchmarks 1](docs/screenshots/benchmarks1.png.png)
+
+![Benchmarks 2](docs/screenshots/benchmarks2.png.png)
+
+---
+
+## Execution Logs
+
+![Execution Logs](docs/screenshots/execution-logs.png.png)
+
+---
+
+
+
 
 ## How To Run Locally Without Docker
 
