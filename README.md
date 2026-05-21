@@ -118,6 +118,7 @@ ai-shopping-avatar/ legacy prototype kept as reference
 ### AI Avatar Profile
 
 `docs/screenshots/avatar-profile.png`
+`docs/screenshots/price-tracker.png`
 
 ### Storefront
 
@@ -129,7 +130,8 @@ ai-shopping-avatar/ legacy prototype kept as reference
 
 ### Benchmark Page
 
-`docs/screenshots/benchmarks.png`
+`docs/screenshots/benchmarks1.png`
+`docs/screenshots/benchmarks2.png`
 
 ## How To Run Locally Without Docker
 
