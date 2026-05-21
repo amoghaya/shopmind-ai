@@ -1,0 +1,95 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: docker/backend.Dockerfile
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: postgresql+psycopg://shopmind:shopmind@postgres:5432/shopmind
+      REDIS_URL: redis://redis:6379/0
+      CELERY_BROKER_URL: redis://redis:6379/1
+      CELERY_RESULT_BACKEND: redis://redis:6379/2
+      MLFLOW_TRACKING_URI: http://mlflow:5000
+      SHOPSIM_BASE_URL: http://frontend:5173
+    volumes:
+      - ./artifacts:/app/artifacts
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+      - redis
+
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/frontend.Dockerfile
+    environment:
+      VITE_API_BASE_URL: http://localhost:8000/api/v1
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+
+  worker:
+    build:
+      context: .
+      dockerfile: docker/backend.Dockerfile
+    command: celery -A backend.workers.celery_app.celery_app worker --loglevel=INFO
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: postgresql+psycopg://shopmind:shopmind@postgres:5432/shopmind
+      REDIS_URL: redis://redis:6379/0
+      CELERY_BROKER_URL: redis://redis:6379/1
+      CELERY_RESULT_BACKEND: redis://redis:6379/2
+      MLFLOW_TRACKING_URI: http://mlflow:5000
+      SHOPSIM_BASE_URL: http://frontend:5173
+    volumes:
+      - ./artifacts:/app/artifacts
+    depends_on:
+      - postgres
+      - redis
+
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: shopmind
+      POSTGRES_USER: shopmind
+      POSTGRES_PASSWORD: shopmind
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:7
+    ports:
+      - "6379:6379"
+
+  prometheus:
+    image: prom/prometheus:v2.53.0
+    volumes:
+      - ./infra/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    ports:
+      - "9090:9090"
+
+  grafana:
+    image: grafana/grafana:11.1.0
+    ports:
+      - "3001:3000"
+    volumes:
+      - ./infra/grafana-provisioning/datasources:/etc/grafana/provisioning/datasources:ro
+      - ./infra/grafana-provisioning/dashboards:/etc/grafana/provisioning/dashboards:ro
+      - ./infra/dashboards:/var/lib/grafana/dashboards:ro
+    depends_on:
+      - prometheus
+
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:v2.14.2
+    command: mlflow server --host 0.0.0.0 --port 5000
+    ports:
+      - "5000:5000"
+
+volumes:
+  postgres_data:

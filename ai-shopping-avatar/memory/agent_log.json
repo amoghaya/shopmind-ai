@@ -1,0 +1,902 @@
+[
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Search 'books' \u2192 2 results",
+    "level": "info",
+    "product": null,
+    "timestamp": "16:55:32",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.75, rating 4.5\u2605",
+    "level": "success",
+    "product": "Levi's 511 Slim Jeans",
+    "timestamp": "16:55:32",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.85, rating 4.7\u2605",
+    "level": "success",
+    "product": "Sennheiser Momentum 4",
+    "timestamp": "16:55:32",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.95, rating 4.9\u2605",
+    "level": "success",
+    "product": "Sony WH-1000XM5",
+    "timestamp": "16:55:32",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 11.4, rating 4.8\u2605",
+    "level": "success",
+    "product": "Apple AirPods Pro 2nd Gen",
+    "timestamp": "16:55:32",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.25, rating 4.5\u2605",
+    "level": "success",
+    "product": "W Kurta Set",
+    "timestamp": "16:55:32",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.8, rating 4.6\u2605",
+    "level": "success",
+    "product": "Zara Trench Coat",
+    "timestamp": "16:55:32",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 17.3, rating 4.6\u2605",
+    "level": "success",
+    "product": "Fabindia Cotton Kurta",
+    "timestamp": "16:55:32",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Scored 110 products \u2192 top 12 personalized picks",
+    "level": "success",
+    "product": null,
+    "timestamp": "16:55:32",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Search 'books' \u2192 2 results",
+    "level": "info",
+    "product": null,
+    "timestamp": "16:55:23",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.75, rating 4.5\u2605",
+    "level": "success",
+    "product": "Levi's 511 Slim Jeans",
+    "timestamp": "16:55:23",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.85, rating 4.7\u2605",
+    "level": "success",
+    "product": "Sennheiser Momentum 4",
+    "timestamp": "16:55:23",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.95, rating 4.9\u2605",
+    "level": "success",
+    "product": "Sony WH-1000XM5",
+    "timestamp": "16:55:23",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 11.4, rating 4.8\u2605",
+    "level": "success",
+    "product": "Apple AirPods Pro 2nd Gen",
+    "timestamp": "16:55:23",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.25, rating 4.5\u2605",
+    "level": "success",
+    "product": "W Kurta Set",
+    "timestamp": "16:55:23",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.8, rating 4.6\u2605",
+    "level": "success",
+    "product": "Zara Trench Coat",
+    "timestamp": "16:55:23",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 17.3, rating 4.6\u2605",
+    "level": "success",
+    "product": "Fabindia Cotton Kurta",
+    "timestamp": "16:55:23",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Scored 110 products \u2192 top 12 personalized picks",
+    "level": "success",
+    "product": null,
+    "timestamp": "16:55:23",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Search 'books' \u2192 2 results",
+    "level": "info",
+    "product": null,
+    "timestamp": "16:54:56",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.75, rating 4.5\u2605",
+    "level": "success",
+    "product": "Levi's 511 Slim Jeans",
+    "timestamp": "16:54:56",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.85, rating 4.7\u2605",
+    "level": "success",
+    "product": "Sennheiser Momentum 4",
+    "timestamp": "16:54:56",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.95, rating 4.9\u2605",
+    "level": "success",
+    "product": "Sony WH-1000XM5",
+    "timestamp": "16:54:56",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 11.4, rating 4.8\u2605",
+    "level": "success",
+    "product": "Apple AirPods Pro 2nd Gen",
+    "timestamp": "16:54:56",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.25, rating 4.5\u2605",
+    "level": "success",
+    "product": "W Kurta Set",
+    "timestamp": "16:54:56",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.8, rating 4.6\u2605",
+    "level": "success",
+    "product": "Zara Trench Coat",
+    "timestamp": "16:54:56",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 17.3, rating 4.6\u2605",
+    "level": "success",
+    "product": "Fabindia Cotton Kurta",
+    "timestamp": "16:54:56",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Scored 110 products \u2192 top 12 personalized picks",
+    "level": "success",
+    "product": null,
+    "timestamp": "16:54:56",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "PriceTrackerAgent",
+    "icon": "\ud83d\udcc8",
+    "message": "Price refreshed \u2192 \u20b93,984",
+    "level": "info",
+    "product": "Levi's 511 Slim Jeans",
+    "timestamp": "16:54:56",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Search 'books' \u2192 2 results",
+    "level": "info",
+    "product": null,
+    "timestamp": "16:54:54",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.75, rating 4.5\u2605",
+    "level": "success",
+    "product": "Levi's 511 Slim Jeans",
+    "timestamp": "16:54:54",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.85, rating 4.7\u2605",
+    "level": "success",
+    "product": "Sennheiser Momentum 4",
+    "timestamp": "16:54:54",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.95, rating 4.9\u2605",
+    "level": "success",
+    "product": "Sony WH-1000XM5",
+    "timestamp": "16:54:54",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 11.4, rating 4.8\u2605",
+    "level": "success",
+    "product": "Apple AirPods Pro 2nd Gen",
+    "timestamp": "16:54:54",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.25, rating 4.5\u2605",
+    "level": "success",
+    "product": "W Kurta Set",
+    "timestamp": "16:54:54",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.8, rating 4.6\u2605",
+    "level": "success",
+    "product": "Zara Trench Coat",
+    "timestamp": "16:54:54",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 17.3, rating 4.6\u2605",
+    "level": "success",
+    "product": "Fabindia Cotton Kurta",
+    "timestamp": "16:54:54",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Scored 110 products \u2192 top 12 personalized picks",
+    "level": "success",
+    "product": null,
+    "timestamp": "16:54:54",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Search 'books' \u2192 2 results",
+    "level": "info",
+    "product": null,
+    "timestamp": "16:48:52",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.75, rating 4.5\u2605",
+    "level": "success",
+    "product": "Levi's 511 Slim Jeans",
+    "timestamp": "16:48:52",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.85, rating 4.7\u2605",
+    "level": "success",
+    "product": "Sennheiser Momentum 4",
+    "timestamp": "16:48:52",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.95, rating 4.9\u2605",
+    "level": "success",
+    "product": "Sony WH-1000XM5",
+    "timestamp": "16:48:52",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 11.4, rating 4.8\u2605",
+    "level": "success",
+    "product": "Apple AirPods Pro 2nd Gen",
+    "timestamp": "16:48:52",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.25, rating 4.5\u2605",
+    "level": "success",
+    "product": "W Kurta Set",
+    "timestamp": "16:48:52",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.8, rating 4.6\u2605",
+    "level": "success",
+    "product": "Zara Trench Coat",
+    "timestamp": "16:48:51",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 17.3, rating 4.6\u2605",
+    "level": "success",
+    "product": "Fabindia Cotton Kurta",
+    "timestamp": "16:48:51",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Scored 110 products \u2192 top 12 personalized picks",
+    "level": "success",
+    "product": null,
+    "timestamp": "16:48:51",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "PriceTrackerAgent",
+    "icon": "\ud83d\udcc8",
+    "message": "Price refreshed \u2192 \u20b912,589",
+    "level": "info",
+    "product": "Samsung Galaxy Buds2 Pro",
+    "timestamp": "16:48:51",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Search 'books' \u2192 2 results",
+    "level": "info",
+    "product": null,
+    "timestamp": "16:48:51",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.75, rating 4.5\u2605",
+    "level": "success",
+    "product": "Levi's 511 Slim Jeans",
+    "timestamp": "16:48:51",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.85, rating 4.7\u2605",
+    "level": "success",
+    "product": "Sennheiser Momentum 4",
+    "timestamp": "16:48:51",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.95, rating 4.9\u2605",
+    "level": "success",
+    "product": "Sony WH-1000XM5",
+    "timestamp": "16:48:51",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 11.4, rating 4.8\u2605",
+    "level": "success",
+    "product": "Apple AirPods Pro 2nd Gen",
+    "timestamp": "16:48:51",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.25, rating 4.5\u2605",
+    "level": "success",
+    "product": "W Kurta Set",
+    "timestamp": "16:48:50",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.8, rating 4.6\u2605",
+    "level": "success",
+    "product": "Zara Trench Coat",
+    "timestamp": "16:48:50",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 17.3, rating 4.6\u2605",
+    "level": "success",
+    "product": "Fabindia Cotton Kurta",
+    "timestamp": "16:48:50",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Scored 110 products \u2192 top 12 personalized picks",
+    "level": "success",
+    "product": null,
+    "timestamp": "16:48:50",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Search 'books' \u2192 2 results",
+    "level": "info",
+    "product": null,
+    "timestamp": "16:48:26",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.75, rating 4.5\u2605",
+    "level": "success",
+    "product": "Levi's 511 Slim Jeans",
+    "timestamp": "16:48:26",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.85, rating 4.7\u2605",
+    "level": "success",
+    "product": "Sennheiser Momentum 4",
+    "timestamp": "16:48:26",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.95, rating 4.9\u2605",
+    "level": "success",
+    "product": "Sony WH-1000XM5",
+    "timestamp": "16:48:26",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 11.4, rating 4.8\u2605",
+    "level": "success",
+    "product": "Apple AirPods Pro 2nd Gen",
+    "timestamp": "16:48:26",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.25, rating 4.5\u2605",
+    "level": "success",
+    "product": "W Kurta Set",
+    "timestamp": "16:48:26",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.8, rating 4.6\u2605",
+    "level": "success",
+    "product": "Zara Trench Coat",
+    "timestamp": "16:48:25",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 17.3, rating 4.6\u2605",
+    "level": "success",
+    "product": "Fabindia Cotton Kurta",
+    "timestamp": "16:48:25",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Scored 110 products \u2192 top 12 personalized picks",
+    "level": "success",
+    "product": null,
+    "timestamp": "16:48:25",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Search 'running shoes Nike' \u2192 0 results",
+    "level": "info",
+    "product": null,
+    "timestamp": "16:48:15",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.75, rating 4.5\u2605",
+    "level": "success",
+    "product": "Levi's 511 Slim Jeans",
+    "timestamp": "16:48:15",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.85, rating 4.7\u2605",
+    "level": "success",
+    "product": "Sennheiser Momentum 4",
+    "timestamp": "16:48:15",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.95, rating 4.9\u2605",
+    "level": "success",
+    "product": "Sony WH-1000XM5",
+    "timestamp": "16:48:15",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 11.4, rating 4.8\u2605",
+    "level": "success",
+    "product": "Apple AirPods Pro 2nd Gen",
+    "timestamp": "16:48:15",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.25, rating 4.5\u2605",
+    "level": "success",
+    "product": "W Kurta Set",
+    "timestamp": "16:48:15",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.8, rating 4.6\u2605",
+    "level": "success",
+    "product": "Zara Trench Coat",
+    "timestamp": "16:48:15",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 17.3, rating 4.6\u2605",
+    "level": "success",
+    "product": "Fabindia Cotton Kurta",
+    "timestamp": "16:48:15",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Scored 110 products \u2192 top 12 personalized picks",
+    "level": "success",
+    "product": null,
+    "timestamp": "16:48:15",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.75, rating 4.5\u2605",
+    "level": "success",
+    "product": "Levi's 511 Slim Jeans",
+    "timestamp": "16:48:14",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.85, rating 4.7\u2605",
+    "level": "success",
+    "product": "Sennheiser Momentum 4",
+    "timestamp": "16:48:14",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.95, rating 4.9\u2605",
+    "level": "success",
+    "product": "Sony WH-1000XM5",
+    "timestamp": "16:48:14",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 11.4, rating 4.8\u2605",
+    "level": "success",
+    "product": "Apple AirPods Pro 2nd Gen",
+    "timestamp": "16:48:14",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.25, rating 4.5\u2605",
+    "level": "success",
+    "product": "W Kurta Set",
+    "timestamp": "16:48:14",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.8, rating 4.6\u2605",
+    "level": "success",
+    "product": "Zara Trench Coat",
+    "timestamp": "16:48:14",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 17.3, rating 4.6\u2605",
+    "level": "success",
+    "product": "Fabindia Cotton Kurta",
+    "timestamp": "16:48:14",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Scored 110 products \u2192 top 12 personalized picks",
+    "level": "success",
+    "product": null,
+    "timestamp": "16:48:14",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Search 'home appliances' \u2192 0 results",
+    "level": "info",
+    "product": null,
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.75, rating 4.5\u2605",
+    "level": "success",
+    "product": "Levi's 511 Slim Jeans",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.85, rating 4.7\u2605",
+    "level": "success",
+    "product": "Sennheiser Momentum 4",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.95, rating 4.9\u2605",
+    "level": "success",
+    "product": "Sony WH-1000XM5",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 11.4, rating 4.8\u2605",
+    "level": "success",
+    "product": "Apple AirPods Pro 2nd Gen",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.25, rating 4.5\u2605",
+    "level": "success",
+    "product": "W Kurta Set",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.8, rating 4.6\u2605",
+    "level": "success",
+    "product": "Zara Trench Coat",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 17.3, rating 4.6\u2605",
+    "level": "success",
+    "product": "Fabindia Cotton Kurta",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Scored 110 products \u2192 top 12 personalized picks",
+    "level": "success",
+    "product": null,
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.75, rating 4.5\u2605",
+    "level": "success",
+    "product": "Levi's 511 Slim Jeans",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.85, rating 4.7\u2605",
+    "level": "success",
+    "product": "Sennheiser Momentum 4",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 10.95, rating 4.9\u2605",
+    "level": "success",
+    "product": "Sony WH-1000XM5",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 11.4, rating 4.8\u2605",
+    "level": "success",
+    "product": "Apple AirPods Pro 2nd Gen",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.25, rating 4.5\u2605",
+    "level": "success",
+    "product": "W Kurta Set",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 12.8, rating 4.6\u2605",
+    "level": "success",
+    "product": "Zara Trench Coat",
+    "timestamp": "16:48:12",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "DecisionAgent",
+    "icon": "\ud83e\udd16",
+    "message": "Suggesting purchase \u2014 score 17.3, rating 4.6\u2605",
+    "level": "success",
+    "product": "Fabindia Cotton Kurta",
+    "timestamp": "16:48:11",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Scored 110 products \u2192 top 12 personalized picks",
+    "level": "success",
+    "product": null,
+    "timestamp": "16:48:11",
+    "date": "Apr 09"
+  },
+  {
+    "agent": "RecommendationAgent",
+    "icon": "\ud83d\udcca",
+    "message": "Search 'budget smartphone' \u2192 0 results",
+    "level": "info",
+    "product": null,
+    "timestamp": "16:48:09",
+    "date": "Apr 09"
+  }
+]

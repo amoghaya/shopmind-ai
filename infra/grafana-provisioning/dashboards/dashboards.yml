@@ -1,0 +1,9 @@
+apiVersion: 1
+providers:
+  - name: HNB Shopping Avatar
+    orgId: 1
+    folder: HNB Shopping Avatar
+    type: file
+    options:
+      path: /var/lib/grafana/dashboards
+

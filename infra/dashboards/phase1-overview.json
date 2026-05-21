@@ -1,0 +1,26 @@
+{
+  "title": "Phase 1 Overview",
+  "panels": [
+    {
+      "title": "API Request Rate",
+      "type": "timeseries",
+      "targets": [
+        {
+          "expr": "sum(rate(api_requests_total[5m])) by (path)"
+        }
+      ]
+    },
+    {
+      "title": "Recommendation Throughput",
+      "type": "timeseries",
+      "targets": [
+        {
+          "expr": "sum(rate(recommendation_requests_total[5m])) by (strategy)"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 39,
+  "version": 1
+}
+

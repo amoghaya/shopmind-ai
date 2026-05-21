@@ -1,0 +1,123 @@
+{
+  "user_name": "amo",
+  "preferred_categories": [
+    "Fashion",
+    "Home",
+    "Electronics"
+  ],
+  "preferred_brands": [
+    "Acer",
+    "Apple",
+    "Fabindia",
+    "Zara"
+  ],
+  "budget_max": 134000,
+  "liked_tags": [
+    "audio",
+    "headphones",
+    "noise-cancelling",
+    "premium",
+    "wireless",
+    "ereader",
+    "books",
+    "reading",
+    "amazon",
+    "coat",
+    "formal",
+    "fashion",
+    "outerwear",
+    "shirt",
+    "mens",
+    "office",
+    "blazer",
+    "kurta",
+    "ethnic",
+    "casual",
+    "handloom"
+  ],
+  "disliked_tags": [
+    "furniture",
+    "mattress",
+    "sleep",
+    "premium",
+    "health"
+  ],
+  "interaction_history": [
+    {
+      "product_id": 89,
+      "product_name": "Amazon Kindle Paperwhite",
+      "action": "liked",
+      "timestamp": "2026-04-09T12:22:09.925836"
+    },
+    {
+      "product_id": 64,
+      "product_name": "Zara Trench Coat",
+      "action": "liked",
+      "timestamp": "2026-04-09T12:29:50.979687"
+    },
+    {
+      "product_id": 65,
+      "product_name": "Allen Solly Formal Shirt",
+      "action": "liked",
+      "timestamp": "2026-04-09T12:35:48.691738"
+    },
+    {
+      "product_id": 66,
+      "product_name": "Van Heusen Blazer",
+      "action": "liked",
+      "timestamp": "2026-04-09T12:37:47.999404"
+    },
+    {
+      "product_id": 87,
+      "product_name": "Wakefit Orthopaedic Mattress",
+      "action": "disliked",
+      "timestamp": "2026-04-09T12:38:57.489684"
+    },
+    {
+      "product_id": 71,
+      "product_name": "Fabindia Cotton Kurta",
+      "action": "liked",
+      "timestamp": "2026-04-09T12:39:04.562244"
+    },
+    {
+      "product_id": 64,
+      "product_name": "Zara Trench Coat",
+      "action": "liked",
+      "timestamp": "2026-04-09T16:41:47.130117"
+    }
+  ],
+  "watchlist": [
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Buds2 Pro",
+      "price_at_add": 12342,
+      "added_at": "2026-04-09T12:28:22.137726"
+    },
+    {
+      "id": 69,
+      "name": "AND Formal Blazer Women",
+      "price_at_add": 3060,
+      "added_at": "2026-04-09T12:37:52.548805"
+    },
+    {
+      "id": 61,
+      "name": "Levi's 511 Slim Jeans",
+      "price_at_add": 4043,
+      "added_at": "2026-04-09T16:41:51.666607"
+    }
+  ],
+  "purchase_history": [
+    {
+      "product_id": 3,
+      "product_name": "Sony WH-1000XM5",
+      "price": 30342,
+      "timestamp": "2026-04-09T12:20:51.819724"
+    },
+    {
+      "product_id": 71,
+      "product_name": "Fabindia Cotton Kurta",
+      "price": 2105,
+      "timestamp": "2026-04-09T14:03:16.621214"
+    }
+  ]
+}

@@ -1,0 +1,5294 @@
+{
+  "3": [
+    {
+      "date": "Mar 10",
+      "price": 30024
+    },
+    {
+      "date": "Mar 11",
+      "price": 29250
+    },
+    {
+      "date": "Mar 12",
+      "price": 29893
+    },
+    {
+      "date": "Mar 13",
+      "price": 29652
+    },
+    {
+      "date": "Mar 14",
+      "price": 29105
+    },
+    {
+      "date": "Mar 15",
+      "price": 29132
+    },
+    {
+      "date": "Mar 16",
+      "price": 30735
+    },
+    {
+      "date": "Mar 17",
+      "price": 30269
+    },
+    {
+      "date": "Mar 18",
+      "price": 30868
+    },
+    {
+      "date": "Mar 19",
+      "price": 29955
+    },
+    {
+      "date": "Mar 20",
+      "price": 30042
+    },
+    {
+      "date": "Mar 21",
+      "price": 30848
+    },
+    {
+      "date": "Mar 22",
+      "price": 30159
+    },
+    {
+      "date": "Mar 23",
+      "price": 29593
+    },
+    {
+      "date": "Mar 24",
+      "price": 29201
+    },
+    {
+      "date": "Mar 25",
+      "price": 29458
+    },
+    {
+      "date": "Mar 26",
+      "price": 30258
+    },
+    {
+      "date": "Mar 27",
+      "price": 31591
+    },
+    {
+      "date": "Mar 28",
+      "price": 30679
+    },
+    {
+      "date": "Mar 29",
+      "price": 29842
+    },
+    {
+      "date": "Mar 30",
+      "price": 33142
+    },
+    {
+      "date": "Mar 31",
+      "price": 30757
+    },
+    {
+      "date": "Apr 01",
+      "price": 32171
+    },
+    {
+      "date": "Apr 02",
+      "price": 27055
+    },
+    {
+      "date": "Apr 03",
+      "price": 25805
+    },
+    {
+      "date": "Apr 04",
+      "price": 29705
+    },
+    {
+      "date": "Apr 05",
+      "price": 29492
+    },
+    {
+      "date": "Apr 06",
+      "price": 27109
+    },
+    {
+      "date": "Apr 07",
+      "price": 30499
+    },
+    {
+      "date": "Apr 08",
+      "price": 30728
+    },
+    {
+      "date": "Today",
+      "price": 30342
+    }
+  ],
+  "1": [
+    {
+      "date": "Mar 10",
+      "price": 24815
+    },
+    {
+      "date": "Mar 11",
+      "price": 24366
+    },
+    {
+      "date": "Mar 12",
+      "price": 19715
+    },
+    {
+      "date": "Mar 13",
+      "price": 24290
+    },
+    {
+      "date": "Mar 14",
+      "price": 24905
+    },
+    {
+      "date": "Mar 15",
+      "price": 23212
+    },
+    {
+      "date": "Mar 16",
+      "price": 25225
+    },
+    {
+      "date": "Mar 17",
+      "price": 25307
+    },
+    {
+      "date": "Mar 18",
+      "price": 25396
+    },
+    {
+      "date": "Mar 19",
+      "price": 25135
+    },
+    {
+      "date": "Mar 20",
+      "price": 24741
+    },
+    {
+      "date": "Mar 21",
+      "price": 25389
+    },
+    {
+      "date": "Mar 22",
+      "price": 24951
+    },
+    {
+      "date": "Mar 23",
+      "price": 25717
+    },
+    {
+      "date": "Mar 24",
+      "price": 25699
+    },
+    {
+      "date": "Mar 25",
+      "price": 24570
+    },
+    {
+      "date": "Mar 26",
+      "price": 25224
+    },
+    {
+      "date": "Mar 27",
+      "price": 24298
+    },
+    {
+      "date": "Mar 28",
+      "price": 25630
+    },
+    {
+      "date": "Mar 29",
+      "price": 25622
+    },
+    {
+      "date": "Mar 30",
+      "price": 25276
+    },
+    {
+      "date": "Mar 31",
+      "price": 25098
+    },
+    {
+      "date": "Apr 01",
+      "price": 24818
+    },
+    {
+      "date": "Apr 02",
+      "price": 25737
+    },
+    {
+      "date": "Apr 03",
+      "price": 25080
+    },
+    {
+      "date": "Apr 04",
+      "price": 24260
+    },
+    {
+      "date": "Apr 05",
+      "price": 25408
+    },
+    {
+      "date": "Apr 06",
+      "price": 20279
+    },
+    {
+      "date": "Apr 07",
+      "price": 24386
+    },
+    {
+      "date": "Apr 08",
+      "price": 24644
+    },
+    {
+      "date": "Today",
+      "price": 25704
+    }
+  ],
+  "44": [
+    {
+      "date": "Mar 10",
+      "price": 10282
+    },
+    {
+      "date": "Mar 11",
+      "price": 9798
+    },
+    {
+      "date": "Mar 12",
+      "price": 10070
+    },
+    {
+      "date": "Mar 13",
+      "price": 10072
+    },
+    {
+      "date": "Mar 14",
+      "price": 10254
+    },
+    {
+      "date": "Mar 15",
+      "price": 10199
+    },
+    {
+      "date": "Mar 16",
+      "price": 10410
+    },
+    {
+      "date": "Mar 17",
+      "price": 8915
+    },
+    {
+      "date": "Mar 18",
+      "price": 9862
+    },
+    {
+      "date": "Mar 19",
+      "price": 7821
+    },
+    {
+      "date": "Mar 20",
+      "price": 7807
+    },
+    {
+      "date": "Mar 21",
+      "price": 9939
+    },
+    {
+      "date": "Mar 22",
+      "price": 9736
+    },
+    {
+      "date": "Mar 23",
+      "price": 9702
+    },
+    {
+      "date": "Mar 24",
+      "price": 9785
+    },
+    {
+      "date": "Mar 25",
+      "price": 9852
+    },
+    {
+      "date": "Mar 26",
+      "price": 10121
+    },
+    {
+      "date": "Mar 27",
+      "price": 8053
+    },
+    {
+      "date": "Mar 28",
+      "price": 10134
+    },
+    {
+      "date": "Mar 29",
+      "price": 9781
+    },
+    {
+      "date": "Mar 30",
+      "price": 9704
+    },
+    {
+      "date": "Mar 31",
+      "price": 10090
+    },
+    {
+      "date": "Apr 01",
+      "price": 8633
+    },
+    {
+      "date": "Apr 02",
+      "price": 7539
+    },
+    {
+      "date": "Apr 03",
+      "price": 9859
+    },
+    {
+      "date": "Apr 04",
+      "price": 8170
+    },
+    {
+      "date": "Apr 05",
+      "price": 10087
+    },
+    {
+      "date": "Apr 06",
+      "price": 9851
+    },
+    {
+      "date": "Apr 07",
+      "price": 9943
+    },
+    {
+      "date": "Apr 08",
+      "price": 10085
+    },
+    {
+      "date": "Today",
+      "price": 8318
+    }
+  ],
+  "21": [
+    {
+      "date": "Mar 10",
+      "price": 41502
+    },
+    {
+      "date": "Mar 11",
+      "price": 42640
+    },
+    {
+      "date": "Mar 12",
+      "price": 41490
+    },
+    {
+      "date": "Mar 13",
+      "price": 42747
+    },
+    {
+      "date": "Mar 14",
+      "price": 41874
+    },
+    {
+      "date": "Mar 15",
+      "price": 41905
+    },
+    {
+      "date": "Mar 16",
+      "price": 42717
+    },
+    {
+      "date": "Mar 17",
+      "price": 41442
+    },
+    {
+      "date": "Mar 18",
+      "price": 42269
+    },
+    {
+      "date": "Mar 19",
+      "price": 34880
+    },
+    {
+      "date": "Mar 20",
+      "price": 42049
+    },
+    {
+      "date": "Mar 21",
+      "price": 41192
+    },
+    {
+      "date": "Mar 22",
+      "price": 40918
+    },
+    {
+      "date": "Mar 23",
+      "price": 41593
+    },
+    {
+      "date": "Mar 24",
+      "price": 40963
+    },
+    {
+      "date": "Mar 25",
+      "price": 42127
+    },
+    {
+      "date": "Mar 26",
+      "price": 40744
+    },
+    {
+      "date": "Mar 27",
+      "price": 34121
+    },
+    {
+      "date": "Mar 28",
+      "price": 46203
+    },
+    {
+      "date": "Mar 29",
+      "price": 43086
+    },
+    {
+      "date": "Mar 30",
+      "price": 42183
+    },
+    {
+      "date": "Mar 31",
+      "price": 41918
+    },
+    {
+      "date": "Apr 01",
+      "price": 41435
+    },
+    {
+      "date": "Apr 02",
+      "price": 35785
+    },
+    {
+      "date": "Apr 03",
+      "price": 41021
+    },
+    {
+      "date": "Apr 04",
+      "price": 42693
+    },
+    {
+      "date": "Apr 05",
+      "price": 42566
+    },
+    {
+      "date": "Apr 06",
+      "price": 42222
+    },
+    {
+      "date": "Apr 07",
+      "price": 42025
+    },
+    {
+      "date": "Apr 08",
+      "price": 42850
+    },
+    {
+      "date": "Today",
+      "price": 42106
+    }
+  ],
+  "42": [
+    {
+      "date": "Mar 10",
+      "price": 31028
+    },
+    {
+      "date": "Mar 11",
+      "price": 30192
+    },
+    {
+      "date": "Mar 12",
+      "price": 35451
+    },
+    {
+      "date": "Mar 13",
+      "price": 35849
+    },
+    {
+      "date": "Mar 14",
+      "price": 35421
+    },
+    {
+      "date": "Mar 15",
+      "price": 36202
+    },
+    {
+      "date": "Mar 16",
+      "price": 35907
+    },
+    {
+      "date": "Mar 17",
+      "price": 34106
+    },
+    {
+      "date": "Mar 18",
+      "price": 35715
+    },
+    {
+      "date": "Mar 19",
+      "price": 34785
+    },
+    {
+      "date": "Mar 20",
+      "price": 34242
+    },
+    {
+      "date": "Mar 21",
+      "price": 39184
+    },
+    {
+      "date": "Mar 22",
+      "price": 31600
+    },
+    {
+      "date": "Mar 23",
+      "price": 35429
+    },
+    {
+      "date": "Mar 24",
+      "price": 33997
+    },
+    {
+      "date": "Mar 25",
+      "price": 27233
+    },
+    {
+      "date": "Mar 26",
+      "price": 34872
+    },
+    {
+      "date": "Mar 27",
+      "price": 34796
+    },
+    {
+      "date": "Mar 28",
+      "price": 36134
+    },
+    {
+      "date": "Mar 29",
+      "price": 34422
+    },
+    {
+      "date": "Mar 30",
+      "price": 35914
+    },
+    {
+      "date": "Mar 31",
+      "price": 35285
+    },
+    {
+      "date": "Apr 01",
+      "price": 34469
+    },
+    {
+      "date": "Apr 02",
+      "price": 34588
+    },
+    {
+      "date": "Apr 03",
+      "price": 29349
+    },
+    {
+      "date": "Apr 04",
+      "price": 34695
+    },
+    {
+      "date": "Apr 05",
+      "price": 35314
+    },
+    {
+      "date": "Apr 06",
+      "price": 35871
+    },
+    {
+      "date": "Apr 07",
+      "price": 35302
+    },
+    {
+      "date": "Apr 08",
+      "price": 36275
+    },
+    {
+      "date": "Today",
+      "price": 35650
+    }
+  ],
+  "89": [
+    {
+      "date": "Mar 10",
+      "price": 14274
+    },
+    {
+      "date": "Mar 11",
+      "price": 13683
+    },
+    {
+      "date": "Mar 12",
+      "price": 14070
+    },
+    {
+      "date": "Mar 13",
+      "price": 13896
+    },
+    {
+      "date": "Mar 14",
+      "price": 15246
+    },
+    {
+      "date": "Mar 15",
+      "price": 11488
+    },
+    {
+      "date": "Mar 16",
+      "price": 14366
+    },
+    {
+      "date": "Mar 17",
+      "price": 14308
+    },
+    {
+      "date": "Mar 18",
+      "price": 14391
+    },
+    {
+      "date": "Mar 19",
+      "price": 13988
+    },
+    {
+      "date": "Mar 20",
+      "price": 11850
+    },
+    {
+      "date": "Mar 21",
+      "price": 14253
+    },
+    {
+      "date": "Mar 22",
+      "price": 11725
+    },
+    {
+      "date": "Mar 23",
+      "price": 13593
+    },
+    {
+      "date": "Mar 24",
+      "price": 14138
+    },
+    {
+      "date": "Mar 25",
+      "price": 14258
+    },
+    {
+      "date": "Mar 26",
+      "price": 13807
+    },
+    {
+      "date": "Mar 27",
+      "price": 14181
+    },
+    {
+      "date": "Mar 28",
+      "price": 13899
+    },
+    {
+      "date": "Mar 29",
+      "price": 14604
+    },
+    {
+      "date": "Mar 30",
+      "price": 14232
+    },
+    {
+      "date": "Mar 31",
+      "price": 13594
+    },
+    {
+      "date": "Apr 01",
+      "price": 13775
+    },
+    {
+      "date": "Apr 02",
+      "price": 13650
+    },
+    {
+      "date": "Apr 03",
+      "price": 14341
+    },
+    {
+      "date": "Apr 04",
+      "price": 14277
+    },
+    {
+      "date": "Apr 05",
+      "price": 13626
+    },
+    {
+      "date": "Apr 06",
+      "price": 13628
+    },
+    {
+      "date": "Apr 07",
+      "price": 14296
+    },
+    {
+      "date": "Apr 08",
+      "price": 13986
+    },
+    {
+      "date": "Today",
+      "price": 13899
+    }
+  ],
+  "41": [
+    {
+      "date": "Mar 10",
+      "price": 35363
+    },
+    {
+      "date": "Mar 11",
+      "price": 36202
+    },
+    {
+      "date": "Mar 12",
+      "price": 36371
+    },
+    {
+      "date": "Mar 13",
+      "price": 36386
+    },
+    {
+      "date": "Mar 14",
+      "price": 36184
+    },
+    {
+      "date": "Mar 15",
+      "price": 36595
+    },
+    {
+      "date": "Mar 16",
+      "price": 31514
+    },
+    {
+      "date": "Mar 17",
+      "price": 35398
+    },
+    {
+      "date": "Mar 18",
+      "price": 34914
+    },
+    {
+      "date": "Mar 19",
+      "price": 35416
+    },
+    {
+      "date": "Mar 20",
+      "price": 35229
+    },
+    {
+      "date": "Mar 21",
+      "price": 36794
+    },
+    {
+      "date": "Mar 22",
+      "price": 30608
+    },
+    {
+      "date": "Mar 23",
+      "price": 36035
+    },
+    {
+      "date": "Mar 24",
+      "price": 36404
+    },
+    {
+      "date": "Mar 25",
+      "price": 37060
+    },
+    {
+      "date": "Mar 26",
+      "price": 36828
+    },
+    {
+      "date": "Mar 27",
+      "price": 35843
+    },
+    {
+      "date": "Mar 28",
+      "price": 35784
+    },
+    {
+      "date": "Mar 29",
+      "price": 39675
+    },
+    {
+      "date": "Mar 30",
+      "price": 35405
+    },
+    {
+      "date": "Mar 31",
+      "price": 35006
+    },
+    {
+      "date": "Apr 01",
+      "price": 29934
+    },
+    {
+      "date": "Apr 02",
+      "price": 35677
+    },
+    {
+      "date": "Apr 03",
+      "price": 37148
+    },
+    {
+      "date": "Apr 04",
+      "price": 35256
+    },
+    {
+      "date": "Apr 05",
+      "price": 36667
+    },
+    {
+      "date": "Apr 06",
+      "price": 34982
+    },
+    {
+      "date": "Apr 07",
+      "price": 35580
+    },
+    {
+      "date": "Apr 08",
+      "price": 29564
+    },
+    {
+      "date": "Today",
+      "price": 36071
+    }
+  ],
+  "25": [
+    {
+      "date": "Mar 10",
+      "price": 43059
+    },
+    {
+      "date": "Mar 11",
+      "price": 47521
+    },
+    {
+      "date": "Mar 12",
+      "price": 43153
+    },
+    {
+      "date": "Mar 13",
+      "price": 47590
+    },
+    {
+      "date": "Mar 14",
+      "price": 43844
+    },
+    {
+      "date": "Mar 15",
+      "price": 42191
+    },
+    {
+      "date": "Mar 16",
+      "price": 41799
+    },
+    {
+      "date": "Mar 17",
+      "price": 42914
+    },
+    {
+      "date": "Mar 18",
+      "price": 43653
+    },
+    {
+      "date": "Mar 19",
+      "price": 34410
+    },
+    {
+      "date": "Mar 20",
+      "price": 41946
+    },
+    {
+      "date": "Mar 21",
+      "price": 42255
+    },
+    {
+      "date": "Mar 22",
+      "price": 43526
+    },
+    {
+      "date": "Mar 23",
+      "price": 42652
+    },
+    {
+      "date": "Mar 24",
+      "price": 45944
+    },
+    {
+      "date": "Mar 25",
+      "price": 43109
+    },
+    {
+      "date": "Mar 26",
+      "price": 47103
+    },
+    {
+      "date": "Mar 27",
+      "price": 42629
+    },
+    {
+      "date": "Mar 28",
+      "price": 44127
+    },
+    {
+      "date": "Mar 29",
+      "price": 45280
+    },
+    {
+      "date": "Mar 30",
+      "price": 43691
+    },
+    {
+      "date": "Mar 31",
+      "price": 38614
+    },
+    {
+      "date": "Apr 01",
+      "price": 42751
+    },
+    {
+      "date": "Apr 02",
+      "price": 42226
+    },
+    {
+      "date": "Apr 03",
+      "price": 46889
+    },
+    {
+      "date": "Apr 04",
+      "price": 35576
+    },
+    {
+      "date": "Apr 05",
+      "price": 43830
+    },
+    {
+      "date": "Apr 06",
+      "price": 42394
+    },
+    {
+      "date": "Apr 07",
+      "price": 42579
+    },
+    {
+      "date": "Apr 08",
+      "price": 44001
+    },
+    {
+      "date": "Today",
+      "price": 42072
+    }
+  ],
+  "6": [
+    {
+      "date": "Mar 10",
+      "price": 26924
+    },
+    {
+      "date": "Mar 11",
+      "price": 27103
+    },
+    {
+      "date": "Mar 12",
+      "price": 27667
+    },
+    {
+      "date": "Mar 13",
+      "price": 30150
+    },
+    {
+      "date": "Mar 14",
+      "price": 26951
+    },
+    {
+      "date": "Mar 15",
+      "price": 27416
+    },
+    {
+      "date": "Mar 16",
+      "price": 22578
+    },
+    {
+      "date": "Mar 17",
+      "price": 29707
+    },
+    {
+      "date": "Mar 18",
+      "price": 26723
+    },
+    {
+      "date": "Mar 19",
+      "price": 26928
+    },
+    {
+      "date": "Mar 20",
+      "price": 28960
+    },
+    {
+      "date": "Mar 21",
+      "price": 26735
+    },
+    {
+      "date": "Mar 22",
+      "price": 27265
+    },
+    {
+      "date": "Mar 23",
+      "price": 27236
+    },
+    {
+      "date": "Mar 24",
+      "price": 27538
+    },
+    {
+      "date": "Mar 25",
+      "price": 27587
+    },
+    {
+      "date": "Mar 26",
+      "price": 27198
+    },
+    {
+      "date": "Mar 27",
+      "price": 27607
+    },
+    {
+      "date": "Mar 28",
+      "price": 26884
+    },
+    {
+      "date": "Mar 29",
+      "price": 26824
+    },
+    {
+      "date": "Mar 30",
+      "price": 26299
+    },
+    {
+      "date": "Mar 31",
+      "price": 30060
+    },
+    {
+      "date": "Apr 01",
+      "price": 27284
+    },
+    {
+      "date": "Apr 02",
+      "price": 27529
+    },
+    {
+      "date": "Apr 03",
+      "price": 27699
+    },
+    {
+      "date": "Apr 04",
+      "price": 27438
+    },
+    {
+      "date": "Apr 05",
+      "price": 26681
+    },
+    {
+      "date": "Apr 06",
+      "price": 27327
+    },
+    {
+      "date": "Apr 07",
+      "price": 26330
+    },
+    {
+      "date": "Apr 08",
+      "price": 26593
+    },
+    {
+      "date": "Today",
+      "price": 27598
+    }
+  ],
+  "52": [
+    {
+      "date": "Mar 10",
+      "price": 11786
+    },
+    {
+      "date": "Mar 11",
+      "price": 12241
+    },
+    {
+      "date": "Mar 12",
+      "price": 13414
+    },
+    {
+      "date": "Mar 13",
+      "price": 12353
+    },
+    {
+      "date": "Mar 14",
+      "price": 11879
+    },
+    {
+      "date": "Mar 15",
+      "price": 12034
+    },
+    {
+      "date": "Mar 16",
+      "price": 11838
+    },
+    {
+      "date": "Mar 17",
+      "price": 11859
+    },
+    {
+      "date": "Mar 18",
+      "price": 11669
+    },
+    {
+      "date": "Mar 19",
+      "price": 12019
+    },
+    {
+      "date": "Mar 20",
+      "price": 12178
+    },
+    {
+      "date": "Mar 21",
+      "price": 13004
+    },
+    {
+      "date": "Mar 22",
+      "price": 10254
+    },
+    {
+      "date": "Mar 23",
+      "price": 11968
+    },
+    {
+      "date": "Mar 24",
+      "price": 9927
+    },
+    {
+      "date": "Mar 25",
+      "price": 11823
+    },
+    {
+      "date": "Mar 26",
+      "price": 12973
+    },
+    {
+      "date": "Mar 27",
+      "price": 12105
+    },
+    {
+      "date": "Mar 28",
+      "price": 12247
+    },
+    {
+      "date": "Mar 29",
+      "price": 11997
+    },
+    {
+      "date": "Mar 30",
+      "price": 11929
+    },
+    {
+      "date": "Mar 31",
+      "price": 12942
+    },
+    {
+      "date": "Apr 01",
+      "price": 11718
+    },
+    {
+      "date": "Apr 02",
+      "price": 12341
+    },
+    {
+      "date": "Apr 03",
+      "price": 12297
+    },
+    {
+      "date": "Apr 04",
+      "price": 12039
+    },
+    {
+      "date": "Apr 05",
+      "price": 12896
+    },
+    {
+      "date": "Apr 06",
+      "price": 12567
+    },
+    {
+      "date": "Apr 07",
+      "price": 12317
+    },
+    {
+      "date": "Apr 08",
+      "price": 12272
+    },
+    {
+      "date": "Today",
+      "price": 12200
+    }
+  ],
+  "47": [
+    {
+      "date": "Mar 10",
+      "price": 32142
+    },
+    {
+      "date": "Mar 11",
+      "price": 32728
+    },
+    {
+      "date": "Mar 12",
+      "price": 33544
+    },
+    {
+      "date": "Mar 13",
+      "price": 32443
+    },
+    {
+      "date": "Mar 14",
+      "price": 33958
+    },
+    {
+      "date": "Mar 15",
+      "price": 33454
+    },
+    {
+      "date": "Mar 16",
+      "price": 33900
+    },
+    {
+      "date": "Mar 17",
+      "price": 33831
+    },
+    {
+      "date": "Mar 18",
+      "price": 35004
+    },
+    {
+      "date": "Mar 19",
+      "price": 32497
+    },
+    {
+      "date": "Mar 20",
+      "price": 32705
+    },
+    {
+      "date": "Mar 21",
+      "price": 32571
+    },
+    {
+      "date": "Mar 22",
+      "price": 33477
+    },
+    {
+      "date": "Mar 23",
+      "price": 33842
+    },
+    {
+      "date": "Mar 24",
+      "price": 32526
+    },
+    {
+      "date": "Mar 25",
+      "price": 33100
+    },
+    {
+      "date": "Mar 26",
+      "price": 35661
+    },
+    {
+      "date": "Mar 27",
+      "price": 32305
+    },
+    {
+      "date": "Mar 28",
+      "price": 33707
+    },
+    {
+      "date": "Mar 29",
+      "price": 33125
+    },
+    {
+      "date": "Mar 30",
+      "price": 32762
+    },
+    {
+      "date": "Mar 31",
+      "price": 25285
+    },
+    {
+      "date": "Apr 01",
+      "price": 33792
+    },
+    {
+      "date": "Apr 02",
+      "price": 35170
+    },
+    {
+      "date": "Apr 03",
+      "price": 32074
+    },
+    {
+      "date": "Apr 04",
+      "price": 33478
+    },
+    {
+      "date": "Apr 05",
+      "price": 33132
+    },
+    {
+      "date": "Apr 06",
+      "price": 32671
+    },
+    {
+      "date": "Apr 07",
+      "price": 33482
+    },
+    {
+      "date": "Apr 08",
+      "price": 33417
+    },
+    {
+      "date": "Today",
+      "price": 32714
+    }
+  ],
+  "45": [
+    {
+      "date": "Mar 10",
+      "price": 8735
+    },
+    {
+      "date": "Mar 11",
+      "price": 8719
+    },
+    {
+      "date": "Mar 12",
+      "price": 9344
+    },
+    {
+      "date": "Mar 13",
+      "price": 7463
+    },
+    {
+      "date": "Mar 14",
+      "price": 8701
+    },
+    {
+      "date": "Mar 15",
+      "price": 8728
+    },
+    {
+      "date": "Mar 16",
+      "price": 8608
+    },
+    {
+      "date": "Mar 17",
+      "price": 8729
+    },
+    {
+      "date": "Mar 18",
+      "price": 8602
+    },
+    {
+      "date": "Mar 19",
+      "price": 8557
+    },
+    {
+      "date": "Mar 20",
+      "price": 6395
+    },
+    {
+      "date": "Mar 21",
+      "price": 8371
+    },
+    {
+      "date": "Mar 22",
+      "price": 7244
+    },
+    {
+      "date": "Mar 23",
+      "price": 8280
+    },
+    {
+      "date": "Mar 24",
+      "price": 8498
+    },
+    {
+      "date": "Mar 25",
+      "price": 6485
+    },
+    {
+      "date": "Mar 26",
+      "price": 8406
+    },
+    {
+      "date": "Mar 27",
+      "price": 8558
+    },
+    {
+      "date": "Mar 28",
+      "price": 9152
+    },
+    {
+      "date": "Mar 29",
+      "price": 7714
+    },
+    {
+      "date": "Mar 30",
+      "price": 8393
+    },
+    {
+      "date": "Mar 31",
+      "price": 8608
+    },
+    {
+      "date": "Apr 01",
+      "price": 8659
+    },
+    {
+      "date": "Apr 02",
+      "price": 8594
+    },
+    {
+      "date": "Apr 03",
+      "price": 8503
+    },
+    {
+      "date": "Apr 04",
+      "price": 9302
+    },
+    {
+      "date": "Apr 05",
+      "price": 8492
+    },
+    {
+      "date": "Apr 06",
+      "price": 8750
+    },
+    {
+      "date": "Apr 07",
+      "price": 8604
+    },
+    {
+      "date": "Apr 08",
+      "price": 8356
+    },
+    {
+      "date": "Today",
+      "price": 8392
+    }
+  ],
+  "5": [
+    {
+      "date": "Mar 10",
+      "price": 4598
+    },
+    {
+      "date": "Mar 11",
+      "price": 5081
+    },
+    {
+      "date": "Mar 12",
+      "price": 4991
+    },
+    {
+      "date": "Mar 13",
+      "price": 5131
+    },
+    {
+      "date": "Mar 14",
+      "price": 5108
+    },
+    {
+      "date": "Mar 15",
+      "price": 5032
+    },
+    {
+      "date": "Mar 16",
+      "price": 4984
+    },
+    {
+      "date": "Mar 17",
+      "price": 4860
+    },
+    {
+      "date": "Mar 18",
+      "price": 5075
+    },
+    {
+      "date": "Mar 19",
+      "price": 5023
+    },
+    {
+      "date": "Mar 20",
+      "price": 4858
+    },
+    {
+      "date": "Mar 21",
+      "price": 3860
+    },
+    {
+      "date": "Mar 22",
+      "price": 5003
+    },
+    {
+      "date": "Mar 23",
+      "price": 4924
+    },
+    {
+      "date": "Mar 24",
+      "price": 4975
+    },
+    {
+      "date": "Mar 25",
+      "price": 5074
+    },
+    {
+      "date": "Mar 26",
+      "price": 5073
+    },
+    {
+      "date": "Mar 27",
+      "price": 5140
+    },
+    {
+      "date": "Mar 28",
+      "price": 5039
+    },
+    {
+      "date": "Mar 29",
+      "price": 4197
+    },
+    {
+      "date": "Mar 30",
+      "price": 5087
+    },
+    {
+      "date": "Mar 31",
+      "price": 5014
+    },
+    {
+      "date": "Apr 01",
+      "price": 4978
+    },
+    {
+      "date": "Apr 02",
+      "price": 4982
+    },
+    {
+      "date": "Apr 03",
+      "price": 4968
+    },
+    {
+      "date": "Apr 04",
+      "price": 4128
+    },
+    {
+      "date": "Apr 05",
+      "price": 4859
+    },
+    {
+      "date": "Apr 06",
+      "price": 4923
+    },
+    {
+      "date": "Apr 07",
+      "price": 4979
+    },
+    {
+      "date": "Apr 08",
+      "price": 5529
+    },
+    {
+      "date": "Today",
+      "price": 5072
+    }
+  ],
+  "49": [
+    {
+      "date": "Mar 10",
+      "price": 9863
+    },
+    {
+      "date": "Mar 11",
+      "price": 10260
+    },
+    {
+      "date": "Mar 12",
+      "price": 7822
+    },
+    {
+      "date": "Mar 13",
+      "price": 9096
+    },
+    {
+      "date": "Mar 14",
+      "price": 10172
+    },
+    {
+      "date": "Mar 15",
+      "price": 10034
+    },
+    {
+      "date": "Mar 16",
+      "price": 10875
+    },
+    {
+      "date": "Mar 17",
+      "price": 9934
+    },
+    {
+      "date": "Mar 18",
+      "price": 9852
+    },
+    {
+      "date": "Mar 19",
+      "price": 9757
+    },
+    {
+      "date": "Mar 20",
+      "price": 10420
+    },
+    {
+      "date": "Mar 21",
+      "price": 8369
+    },
+    {
+      "date": "Mar 22",
+      "price": 10273
+    },
+    {
+      "date": "Mar 23",
+      "price": 10050
+    },
+    {
+      "date": "Mar 24",
+      "price": 9858
+    },
+    {
+      "date": "Mar 25",
+      "price": 10072
+    },
+    {
+      "date": "Mar 26",
+      "price": 10276
+    },
+    {
+      "date": "Mar 27",
+      "price": 10270
+    },
+    {
+      "date": "Mar 28",
+      "price": 10239
+    },
+    {
+      "date": "Mar 29",
+      "price": 9882
+    },
+    {
+      "date": "Mar 30",
+      "price": 9819
+    },
+    {
+      "date": "Mar 31",
+      "price": 9983
+    },
+    {
+      "date": "Apr 01",
+      "price": 10231
+    },
+    {
+      "date": "Apr 02",
+      "price": 10322
+    },
+    {
+      "date": "Apr 03",
+      "price": 10191
+    },
+    {
+      "date": "Apr 04",
+      "price": 9180
+    },
+    {
+      "date": "Apr 05",
+      "price": 9758
+    },
+    {
+      "date": "Apr 06",
+      "price": 9868
+    },
+    {
+      "date": "Apr 07",
+      "price": 9732
+    },
+    {
+      "date": "Apr 08",
+      "price": 10181
+    },
+    {
+      "date": "Today",
+      "price": 9826
+    }
+  ],
+  "2": [
+    {
+      "date": "Mar 10",
+      "price": 9671
+    },
+    {
+      "date": "Mar 11",
+      "price": 12256
+    },
+    {
+      "date": "Mar 12",
+      "price": 12136
+    },
+    {
+      "date": "Mar 13",
+      "price": 12215
+    },
+    {
+      "date": "Mar 14",
+      "price": 11651
+    },
+    {
+      "date": "Mar 15",
+      "price": 12153
+    },
+    {
+      "date": "Mar 16",
+      "price": 11742
+    },
+    {
+      "date": "Mar 17",
+      "price": 11907
+    },
+    {
+      "date": "Mar 18",
+      "price": 11956
+    },
+    {
+      "date": "Mar 19",
+      "price": 12111
+    },
+    {
+      "date": "Mar 20",
+      "price": 11779
+    },
+    {
+      "date": "Mar 21",
+      "price": 12232
+    },
+    {
+      "date": "Mar 22",
+      "price": 9155
+    },
+    {
+      "date": "Mar 23",
+      "price": 12076
+    },
+    {
+      "date": "Mar 24",
+      "price": 11695
+    },
+    {
+      "date": "Mar 25",
+      "price": 10616
+    },
+    {
+      "date": "Mar 26",
+      "price": 13219
+    },
+    {
+      "date": "Mar 27",
+      "price": 12168
+    },
+    {
+      "date": "Mar 28",
+      "price": 12078
+    },
+    {
+      "date": "Mar 29",
+      "price": 11741
+    },
+    {
+      "date": "Mar 30",
+      "price": 12956
+    },
+    {
+      "date": "Mar 31",
+      "price": 12541
+    },
+    {
+      "date": "Apr 01",
+      "price": 9494
+    },
+    {
+      "date": "Apr 02",
+      "price": 12284
+    },
+    {
+      "date": "Apr 03",
+      "price": 11947
+    },
+    {
+      "date": "Apr 04",
+      "price": 12340
+    },
+    {
+      "date": "Apr 05",
+      "price": 12223
+    },
+    {
+      "date": "Apr 06",
+      "price": 12097
+    },
+    {
+      "date": "Apr 07",
+      "price": 12114
+    },
+    {
+      "date": "Apr 08",
+      "price": 12294
+    },
+    {
+      "date": "Apr 09 16:48",
+      "price": 12589
+    }
+  ],
+  "4": [
+    {
+      "date": "Mar 10",
+      "price": 1500
+    },
+    {
+      "date": "Mar 11",
+      "price": 1466
+    },
+    {
+      "date": "Mar 12",
+      "price": 1490
+    },
+    {
+      "date": "Mar 13",
+      "price": 1619
+    },
+    {
+      "date": "Mar 14",
+      "price": 1534
+    },
+    {
+      "date": "Mar 15",
+      "price": 1502
+    },
+    {
+      "date": "Mar 16",
+      "price": 1456
+    },
+    {
+      "date": "Mar 17",
+      "price": 1583
+    },
+    {
+      "date": "Mar 18",
+      "price": 1471
+    },
+    {
+      "date": "Mar 19",
+      "price": 1499
+    },
+    {
+      "date": "Mar 20",
+      "price": 1493
+    },
+    {
+      "date": "Mar 21",
+      "price": 1530
+    },
+    {
+      "date": "Mar 22",
+      "price": 1467
+    },
+    {
+      "date": "Mar 23",
+      "price": 1459
+    },
+    {
+      "date": "Mar 24",
+      "price": 1537
+    },
+    {
+      "date": "Mar 25",
+      "price": 1513
+    },
+    {
+      "date": "Mar 26",
+      "price": 1524
+    },
+    {
+      "date": "Mar 27",
+      "price": 1540
+    },
+    {
+      "date": "Mar 28",
+      "price": 1482
+    },
+    {
+      "date": "Mar 29",
+      "price": 1535
+    },
+    {
+      "date": "Mar 30",
+      "price": 1474
+    },
+    {
+      "date": "Mar 31",
+      "price": 1510
+    },
+    {
+      "date": "Apr 01",
+      "price": 1543
+    },
+    {
+      "date": "Apr 02",
+      "price": 1531
+    },
+    {
+      "date": "Apr 03",
+      "price": 1522
+    },
+    {
+      "date": "Apr 04",
+      "price": 1484
+    },
+    {
+      "date": "Apr 05",
+      "price": 1496
+    },
+    {
+      "date": "Apr 06",
+      "price": 1548
+    },
+    {
+      "date": "Apr 07",
+      "price": 1657
+    },
+    {
+      "date": "Apr 08",
+      "price": 1481
+    },
+    {
+      "date": "Today",
+      "price": 1504
+    }
+  ],
+  "48": [
+    {
+      "date": "Mar 10",
+      "price": 12319
+    },
+    {
+      "date": "Mar 11",
+      "price": 12815
+    },
+    {
+      "date": "Mar 12",
+      "price": 12110
+    },
+    {
+      "date": "Mar 13",
+      "price": 11941
+    },
+    {
+      "date": "Mar 14",
+      "price": 11853
+    },
+    {
+      "date": "Mar 15",
+      "price": 10974
+    },
+    {
+      "date": "Mar 16",
+      "price": 11704
+    },
+    {
+      "date": "Mar 17",
+      "price": 11900
+    },
+    {
+      "date": "Mar 18",
+      "price": 11708
+    },
+    {
+      "date": "Mar 19",
+      "price": 11711
+    },
+    {
+      "date": "Mar 20",
+      "price": 12413
+    },
+    {
+      "date": "Mar 21",
+      "price": 11645
+    },
+    {
+      "date": "Mar 22",
+      "price": 13427
+    },
+    {
+      "date": "Mar 23",
+      "price": 11925
+    },
+    {
+      "date": "Mar 24",
+      "price": 11849
+    },
+    {
+      "date": "Mar 25",
+      "price": 11873
+    },
+    {
+      "date": "Mar 26",
+      "price": 9564
+    },
+    {
+      "date": "Mar 27",
+      "price": 11802
+    },
+    {
+      "date": "Mar 28",
+      "price": 12310
+    },
+    {
+      "date": "Mar 29",
+      "price": 10812
+    },
+    {
+      "date": "Mar 30",
+      "price": 12152
+    },
+    {
+      "date": "Mar 31",
+      "price": 9129
+    },
+    {
+      "date": "Apr 01",
+      "price": 12045
+    },
+    {
+      "date": "Apr 02",
+      "price": 11773
+    },
+    {
+      "date": "Apr 03",
+      "price": 11695
+    },
+    {
+      "date": "Apr 04",
+      "price": 12146
+    },
+    {
+      "date": "Apr 05",
+      "price": 13319
+    },
+    {
+      "date": "Apr 06",
+      "price": 9123
+    },
+    {
+      "date": "Apr 07",
+      "price": 11693
+    },
+    {
+      "date": "Apr 08",
+      "price": 11899
+    },
+    {
+      "date": "Today",
+      "price": 12061
+    }
+  ],
+  "8": [
+    {
+      "date": "Mar 10",
+      "price": 7964
+    },
+    {
+      "date": "Mar 11",
+      "price": 7930
+    },
+    {
+      "date": "Mar 12",
+      "price": 7957
+    },
+    {
+      "date": "Mar 13",
+      "price": 6042
+    },
+    {
+      "date": "Mar 14",
+      "price": 6958
+    },
+    {
+      "date": "Mar 15",
+      "price": 7868
+    },
+    {
+      "date": "Mar 16",
+      "price": 8198
+    },
+    {
+      "date": "Mar 17",
+      "price": 8025
+    },
+    {
+      "date": "Mar 18",
+      "price": 8057
+    },
+    {
+      "date": "Mar 19",
+      "price": 8044
+    },
+    {
+      "date": "Mar 20",
+      "price": 6182
+    },
+    {
+      "date": "Mar 21",
+      "price": 7917
+    },
+    {
+      "date": "Mar 22",
+      "price": 7860
+    },
+    {
+      "date": "Mar 23",
+      "price": 8023
+    },
+    {
+      "date": "Mar 24",
+      "price": 8052
+    },
+    {
+      "date": "Mar 25",
+      "price": 7889
+    },
+    {
+      "date": "Mar 26",
+      "price": 7878
+    },
+    {
+      "date": "Mar 27",
+      "price": 7777
+    },
+    {
+      "date": "Mar 28",
+      "price": 8163
+    },
+    {
+      "date": "Mar 29",
+      "price": 8137
+    },
+    {
+      "date": "Mar 30",
+      "price": 6824
+    },
+    {
+      "date": "Mar 31",
+      "price": 7859
+    },
+    {
+      "date": "Apr 01",
+      "price": 8149
+    },
+    {
+      "date": "Apr 02",
+      "price": 7821
+    },
+    {
+      "date": "Apr 03",
+      "price": 7977
+    },
+    {
+      "date": "Apr 04",
+      "price": 7882
+    },
+    {
+      "date": "Apr 05",
+      "price": 7063
+    },
+    {
+      "date": "Apr 06",
+      "price": 7927
+    },
+    {
+      "date": "Apr 07",
+      "price": 8020
+    },
+    {
+      "date": "Apr 08",
+      "price": 7833
+    },
+    {
+      "date": "Today",
+      "price": 6306
+    }
+  ],
+  "104": [
+    {
+      "date": "Mar 10",
+      "price": 4101
+    },
+    {
+      "date": "Mar 11",
+      "price": 3884
+    },
+    {
+      "date": "Mar 12",
+      "price": 4101
+    },
+    {
+      "date": "Mar 13",
+      "price": 3893
+    },
+    {
+      "date": "Mar 14",
+      "price": 4129
+    },
+    {
+      "date": "Mar 15",
+      "price": 3966
+    },
+    {
+      "date": "Mar 16",
+      "price": 3925
+    },
+    {
+      "date": "Mar 17",
+      "price": 4096
+    },
+    {
+      "date": "Mar 18",
+      "price": 3891
+    },
+    {
+      "date": "Mar 19",
+      "price": 4048
+    },
+    {
+      "date": "Mar 20",
+      "price": 3915
+    },
+    {
+      "date": "Mar 21",
+      "price": 4310
+    },
+    {
+      "date": "Mar 22",
+      "price": 4064
+    },
+    {
+      "date": "Mar 23",
+      "price": 3567
+    },
+    {
+      "date": "Mar 24",
+      "price": 4060
+    },
+    {
+      "date": "Mar 25",
+      "price": 3938
+    },
+    {
+      "date": "Mar 26",
+      "price": 4099
+    },
+    {
+      "date": "Mar 27",
+      "price": 4095
+    },
+    {
+      "date": "Mar 28",
+      "price": 4023
+    },
+    {
+      "date": "Mar 29",
+      "price": 3987
+    },
+    {
+      "date": "Mar 30",
+      "price": 3902
+    },
+    {
+      "date": "Mar 31",
+      "price": 4081
+    },
+    {
+      "date": "Apr 01",
+      "price": 4004
+    },
+    {
+      "date": "Apr 02",
+      "price": 4232
+    },
+    {
+      "date": "Apr 03",
+      "price": 4031
+    },
+    {
+      "date": "Apr 04",
+      "price": 3936
+    },
+    {
+      "date": "Apr 05",
+      "price": 3011
+    },
+    {
+      "date": "Apr 06",
+      "price": 4081
+    },
+    {
+      "date": "Apr 07",
+      "price": 3960
+    },
+    {
+      "date": "Apr 08",
+      "price": 3955
+    },
+    {
+      "date": "Today",
+      "price": 4046
+    }
+  ],
+  "7": [
+    {
+      "date": "Mar 10",
+      "price": 997
+    },
+    {
+      "date": "Mar 11",
+      "price": 988
+    },
+    {
+      "date": "Mar 12",
+      "price": 1005
+    },
+    {
+      "date": "Mar 13",
+      "price": 987
+    },
+    {
+      "date": "Mar 14",
+      "price": 997
+    },
+    {
+      "date": "Mar 15",
+      "price": 981
+    },
+    {
+      "date": "Mar 16",
+      "price": 1006
+    },
+    {
+      "date": "Mar 17",
+      "price": 987
+    },
+    {
+      "date": "Mar 18",
+      "price": 987
+    },
+    {
+      "date": "Mar 19",
+      "price": 778
+    },
+    {
+      "date": "Mar 20",
+      "price": 986
+    },
+    {
+      "date": "Mar 21",
+      "price": 1028
+    },
+    {
+      "date": "Mar 22",
+      "price": 1000
+    },
+    {
+      "date": "Mar 23",
+      "price": 1007
+    },
+    {
+      "date": "Mar 24",
+      "price": 972
+    },
+    {
+      "date": "Mar 25",
+      "price": 979
+    },
+    {
+      "date": "Mar 26",
+      "price": 983
+    },
+    {
+      "date": "Mar 27",
+      "price": 972
+    },
+    {
+      "date": "Mar 28",
+      "price": 1026
+    },
+    {
+      "date": "Mar 29",
+      "price": 1055
+    },
+    {
+      "date": "Mar 30",
+      "price": 1007
+    },
+    {
+      "date": "Mar 31",
+      "price": 1006
+    },
+    {
+      "date": "Apr 01",
+      "price": 980
+    },
+    {
+      "date": "Apr 02",
+      "price": 1018
+    },
+    {
+      "date": "Apr 03",
+      "price": 1024
+    },
+    {
+      "date": "Apr 04",
+      "price": 1021
+    },
+    {
+      "date": "Apr 05",
+      "price": 1051
+    },
+    {
+      "date": "Apr 06",
+      "price": 992
+    },
+    {
+      "date": "Apr 07",
+      "price": 1005
+    },
+    {
+      "date": "Apr 08",
+      "price": 869
+    },
+    {
+      "date": "Today",
+      "price": 1012
+    }
+  ],
+  "90": [
+    {
+      "date": "Mar 10",
+      "price": 23553
+    },
+    {
+      "date": "Mar 11",
+      "price": 30894
+    },
+    {
+      "date": "Mar 12",
+      "price": 31968
+    },
+    {
+      "date": "Mar 13",
+      "price": 33111
+    },
+    {
+      "date": "Mar 14",
+      "price": 29336
+    },
+    {
+      "date": "Mar 15",
+      "price": 30567
+    },
+    {
+      "date": "Mar 16",
+      "price": 29812
+    },
+    {
+      "date": "Mar 17",
+      "price": 29524
+    },
+    {
+      "date": "Mar 18",
+      "price": 30018
+    },
+    {
+      "date": "Mar 19",
+      "price": 30344
+    },
+    {
+      "date": "Mar 20",
+      "price": 29890
+    },
+    {
+      "date": "Mar 21",
+      "price": 30512
+    },
+    {
+      "date": "Mar 22",
+      "price": 31178
+    },
+    {
+      "date": "Mar 23",
+      "price": 29645
+    },
+    {
+      "date": "Mar 24",
+      "price": 29563
+    },
+    {
+      "date": "Mar 25",
+      "price": 30766
+    },
+    {
+      "date": "Mar 26",
+      "price": 27648
+    },
+    {
+      "date": "Mar 27",
+      "price": 31076
+    },
+    {
+      "date": "Mar 28",
+      "price": 29441
+    },
+    {
+      "date": "Mar 29",
+      "price": 30644
+    },
+    {
+      "date": "Mar 30",
+      "price": 32192
+    },
+    {
+      "date": "Mar 31",
+      "price": 29871
+    },
+    {
+      "date": "Apr 01",
+      "price": 29723
+    },
+    {
+      "date": "Apr 02",
+      "price": 29412
+    },
+    {
+      "date": "Apr 03",
+      "price": 30280
+    },
+    {
+      "date": "Apr 04",
+      "price": 22993
+    },
+    {
+      "date": "Apr 05",
+      "price": 29226
+    },
+    {
+      "date": "Apr 06",
+      "price": 30728
+    },
+    {
+      "date": "Apr 07",
+      "price": 31968
+    },
+    {
+      "date": "Apr 08",
+      "price": 29688
+    },
+    {
+      "date": "Today",
+      "price": 23590
+    }
+  ],
+  "74": [
+    {
+      "date": "Mar 10",
+      "price": 6092
+    },
+    {
+      "date": "Mar 11",
+      "price": 6140
+    },
+    {
+      "date": "Mar 12",
+      "price": 5127
+    },
+    {
+      "date": "Mar 13",
+      "price": 5823
+    },
+    {
+      "date": "Mar 14",
+      "price": 5843
+    },
+    {
+      "date": "Mar 15",
+      "price": 6146
+    },
+    {
+      "date": "Mar 16",
+      "price": 6144
+    },
+    {
+      "date": "Mar 17",
+      "price": 5274
+    },
+    {
+      "date": "Mar 18",
+      "price": 5995
+    },
+    {
+      "date": "Mar 19",
+      "price": 6009
+    },
+    {
+      "date": "Mar 20",
+      "price": 6165
+    },
+    {
+      "date": "Mar 21",
+      "price": 5829
+    },
+    {
+      "date": "Mar 22",
+      "price": 6149
+    },
+    {
+      "date": "Mar 23",
+      "price": 5847
+    },
+    {
+      "date": "Mar 24",
+      "price": 4663
+    },
+    {
+      "date": "Mar 25",
+      "price": 6122
+    },
+    {
+      "date": "Mar 26",
+      "price": 5925
+    },
+    {
+      "date": "Mar 27",
+      "price": 4857
+    },
+    {
+      "date": "Mar 28",
+      "price": 5266
+    },
+    {
+      "date": "Mar 29",
+      "price": 6097
+    },
+    {
+      "date": "Mar 30",
+      "price": 5840
+    },
+    {
+      "date": "Mar 31",
+      "price": 5895
+    },
+    {
+      "date": "Apr 01",
+      "price": 6592
+    },
+    {
+      "date": "Apr 02",
+      "price": 5836
+    },
+    {
+      "date": "Apr 03",
+      "price": 6088
+    },
+    {
+      "date": "Apr 04",
+      "price": 5896
+    },
+    {
+      "date": "Apr 05",
+      "price": 5844
+    },
+    {
+      "date": "Apr 06",
+      "price": 5983
+    },
+    {
+      "date": "Apr 07",
+      "price": 5943
+    },
+    {
+      "date": "Apr 08",
+      "price": 6015
+    },
+    {
+      "date": "Today",
+      "price": 6051
+    }
+  ],
+  "75": [
+    {
+      "date": "Mar 10",
+      "price": 7047
+    },
+    {
+      "date": "Mar 11",
+      "price": 7024
+    },
+    {
+      "date": "Mar 12",
+      "price": 7310
+    },
+    {
+      "date": "Mar 13",
+      "price": 7192
+    },
+    {
+      "date": "Mar 14",
+      "price": 6790
+    },
+    {
+      "date": "Mar 15",
+      "price": 7775
+    },
+    {
+      "date": "Mar 16",
+      "price": 6936
+    },
+    {
+      "date": "Mar 17",
+      "price": 6911
+    },
+    {
+      "date": "Mar 18",
+      "price": 7100
+    },
+    {
+      "date": "Mar 19",
+      "price": 6326
+    },
+    {
+      "date": "Mar 20",
+      "price": 6806
+    },
+    {
+      "date": "Mar 21",
+      "price": 5665
+    },
+    {
+      "date": "Mar 22",
+      "price": 6806
+    },
+    {
+      "date": "Mar 23",
+      "price": 7030
+    },
+    {
+      "date": "Mar 24",
+      "price": 7010
+    },
+    {
+      "date": "Mar 25",
+      "price": 6495
+    },
+    {
+      "date": "Mar 26",
+      "price": 7230
+    },
+    {
+      "date": "Mar 27",
+      "price": 6847
+    },
+    {
+      "date": "Mar 28",
+      "price": 7210
+    },
+    {
+      "date": "Mar 29",
+      "price": 6903
+    },
+    {
+      "date": "Mar 30",
+      "price": 7036
+    },
+    {
+      "date": "Mar 31",
+      "price": 6891
+    },
+    {
+      "date": "Apr 01",
+      "price": 6938
+    },
+    {
+      "date": "Apr 02",
+      "price": 7112
+    },
+    {
+      "date": "Apr 03",
+      "price": 6842
+    },
+    {
+      "date": "Apr 04",
+      "price": 7567
+    },
+    {
+      "date": "Apr 05",
+      "price": 6789
+    },
+    {
+      "date": "Apr 06",
+      "price": 7036
+    },
+    {
+      "date": "Apr 07",
+      "price": 7140
+    },
+    {
+      "date": "Apr 08",
+      "price": 7523
+    },
+    {
+      "date": "Today",
+      "price": 6938
+    }
+  ],
+  "64": [
+    {
+      "date": "Mar 10",
+      "price": 7762
+    },
+    {
+      "date": "Mar 11",
+      "price": 7981
+    },
+    {
+      "date": "Mar 12",
+      "price": 8176
+    },
+    {
+      "date": "Mar 13",
+      "price": 8046
+    },
+    {
+      "date": "Mar 14",
+      "price": 8058
+    },
+    {
+      "date": "Mar 15",
+      "price": 8500
+    },
+    {
+      "date": "Mar 16",
+      "price": 8145
+    },
+    {
+      "date": "Mar 17",
+      "price": 7974
+    },
+    {
+      "date": "Mar 18",
+      "price": 7956
+    },
+    {
+      "date": "Mar 19",
+      "price": 8129
+    },
+    {
+      "date": "Mar 20",
+      "price": 8155
+    },
+    {
+      "date": "Mar 21",
+      "price": 7956
+    },
+    {
+      "date": "Mar 22",
+      "price": 7881
+    },
+    {
+      "date": "Mar 23",
+      "price": 8075
+    },
+    {
+      "date": "Mar 24",
+      "price": 7986
+    },
+    {
+      "date": "Mar 25",
+      "price": 7946
+    },
+    {
+      "date": "Mar 26",
+      "price": 8234
+    },
+    {
+      "date": "Mar 27",
+      "price": 7893
+    },
+    {
+      "date": "Mar 28",
+      "price": 7424
+    },
+    {
+      "date": "Mar 29",
+      "price": 7956
+    },
+    {
+      "date": "Mar 30",
+      "price": 8831
+    },
+    {
+      "date": "Mar 31",
+      "price": 7862
+    },
+    {
+      "date": "Apr 01",
+      "price": 8011
+    },
+    {
+      "date": "Apr 02",
+      "price": 7857
+    },
+    {
+      "date": "Apr 03",
+      "price": 8071
+    },
+    {
+      "date": "Apr 04",
+      "price": 8211
+    },
+    {
+      "date": "Apr 05",
+      "price": 8222
+    },
+    {
+      "date": "Apr 06",
+      "price": 6697
+    },
+    {
+      "date": "Apr 07",
+      "price": 8080
+    },
+    {
+      "date": "Apr 08",
+      "price": 7847
+    },
+    {
+      "date": "Today",
+      "price": 8143
+    }
+  ],
+  "66": [
+    {
+      "date": "Mar 10",
+      "price": 5079
+    },
+    {
+      "date": "Mar 11",
+      "price": 4940
+    },
+    {
+      "date": "Mar 12",
+      "price": 4440
+    },
+    {
+      "date": "Mar 13",
+      "price": 4118
+    },
+    {
+      "date": "Mar 14",
+      "price": 4929
+    },
+    {
+      "date": "Mar 15",
+      "price": 5109
+    },
+    {
+      "date": "Mar 16",
+      "price": 3784
+    },
+    {
+      "date": "Mar 17",
+      "price": 4131
+    },
+    {
+      "date": "Mar 18",
+      "price": 5413
+    },
+    {
+      "date": "Mar 19",
+      "price": 4857
+    },
+    {
+      "date": "Mar 20",
+      "price": 5115
+    },
+    {
+      "date": "Mar 21",
+      "price": 5067
+    },
+    {
+      "date": "Mar 22",
+      "price": 5062
+    },
+    {
+      "date": "Mar 23",
+      "price": 5079
+    },
+    {
+      "date": "Mar 24",
+      "price": 4130
+    },
+    {
+      "date": "Mar 25",
+      "price": 4946
+    },
+    {
+      "date": "Mar 26",
+      "price": 4964
+    },
+    {
+      "date": "Mar 27",
+      "price": 4879
+    },
+    {
+      "date": "Mar 28",
+      "price": 4908
+    },
+    {
+      "date": "Mar 29",
+      "price": 5143
+    },
+    {
+      "date": "Mar 30",
+      "price": 4919
+    },
+    {
+      "date": "Mar 31",
+      "price": 4255
+    },
+    {
+      "date": "Apr 01",
+      "price": 4938
+    },
+    {
+      "date": "Apr 02",
+      "price": 4897
+    },
+    {
+      "date": "Apr 03",
+      "price": 3911
+    },
+    {
+      "date": "Apr 04",
+      "price": 4412
+    },
+    {
+      "date": "Apr 05",
+      "price": 5027
+    },
+    {
+      "date": "Apr 06",
+      "price": 4964
+    },
+    {
+      "date": "Apr 07",
+      "price": 4403
+    },
+    {
+      "date": "Apr 08",
+      "price": 4991
+    },
+    {
+      "date": "Today",
+      "price": 5104
+    }
+  ],
+  "69": [
+    {
+      "date": "Mar 10",
+      "price": 4031
+    },
+    {
+      "date": "Mar 11",
+      "price": 4056
+    },
+    {
+      "date": "Mar 12",
+      "price": 3542
+    },
+    {
+      "date": "Mar 13",
+      "price": 4010
+    },
+    {
+      "date": "Mar 14",
+      "price": 4049
+    },
+    {
+      "date": "Mar 15",
+      "price": 4017
+    },
+    {
+      "date": "Mar 16",
+      "price": 4106
+    },
+    {
+      "date": "Mar 17",
+      "price": 3199
+    },
+    {
+      "date": "Mar 18",
+      "price": 3937
+    },
+    {
+      "date": "Mar 19",
+      "price": 3426
+    },
+    {
+      "date": "Mar 20",
+      "price": 3931
+    },
+    {
+      "date": "Mar 21",
+      "price": 4097
+    },
+    {
+      "date": "Mar 22",
+      "price": 3963
+    },
+    {
+      "date": "Mar 23",
+      "price": 4026
+    },
+    {
+      "date": "Mar 24",
+      "price": 4006
+    },
+    {
+      "date": "Mar 25",
+      "price": 3944
+    },
+    {
+      "date": "Mar 26",
+      "price": 4053
+    },
+    {
+      "date": "Mar 27",
+      "price": 3605
+    },
+    {
+      "date": "Mar 28",
+      "price": 3899
+    },
+    {
+      "date": "Mar 29",
+      "price": 3975
+    },
+    {
+      "date": "Mar 30",
+      "price": 3646
+    },
+    {
+      "date": "Mar 31",
+      "price": 4018
+    },
+    {
+      "date": "Apr 01",
+      "price": 4077
+    },
+    {
+      "date": "Apr 02",
+      "price": 4274
+    },
+    {
+      "date": "Apr 03",
+      "price": 3058
+    },
+    {
+      "date": "Apr 04",
+      "price": 3929
+    },
+    {
+      "date": "Apr 05",
+      "price": 4072
+    },
+    {
+      "date": "Apr 06",
+      "price": 3931
+    },
+    {
+      "date": "Apr 07",
+      "price": 3385
+    },
+    {
+      "date": "Apr 08",
+      "price": 3927
+    },
+    {
+      "date": "Apr 09 12:39",
+      "price": 3915
+    }
+  ],
+  "65": [
+    {
+      "date": "Mar 10",
+      "price": 1336
+    },
+    {
+      "date": "Mar 11",
+      "price": 1286
+    },
+    {
+      "date": "Mar 12",
+      "price": 1323
+    },
+    {
+      "date": "Mar 13",
+      "price": 1264
+    },
+    {
+      "date": "Mar 14",
+      "price": 1281
+    },
+    {
+      "date": "Mar 15",
+      "price": 1265
+    },
+    {
+      "date": "Mar 16",
+      "price": 1294
+    },
+    {
+      "date": "Mar 17",
+      "price": 1289
+    },
+    {
+      "date": "Mar 18",
+      "price": 1273
+    },
+    {
+      "date": "Mar 19",
+      "price": 1298
+    },
+    {
+      "date": "Mar 20",
+      "price": 1325
+    },
+    {
+      "date": "Mar 21",
+      "price": 1264
+    },
+    {
+      "date": "Mar 22",
+      "price": 1338
+    },
+    {
+      "date": "Mar 23",
+      "price": 1287
+    },
+    {
+      "date": "Mar 24",
+      "price": 1206
+    },
+    {
+      "date": "Mar 25",
+      "price": 1284
+    },
+    {
+      "date": "Mar 26",
+      "price": 1327
+    },
+    {
+      "date": "Mar 27",
+      "price": 1282
+    },
+    {
+      "date": "Mar 28",
+      "price": 1261
+    },
+    {
+      "date": "Mar 29",
+      "price": 1265
+    },
+    {
+      "date": "Mar 30",
+      "price": 1339
+    },
+    {
+      "date": "Mar 31",
+      "price": 1275
+    },
+    {
+      "date": "Apr 01",
+      "price": 1335
+    },
+    {
+      "date": "Apr 02",
+      "price": 1295
+    },
+    {
+      "date": "Apr 03",
+      "price": 1320
+    },
+    {
+      "date": "Apr 04",
+      "price": 1314
+    },
+    {
+      "date": "Apr 05",
+      "price": 1299
+    },
+    {
+      "date": "Apr 06",
+      "price": 1306
+    },
+    {
+      "date": "Apr 07",
+      "price": 1289
+    },
+    {
+      "date": "Apr 08",
+      "price": 1270
+    },
+    {
+      "date": "Today",
+      "price": 1338
+    }
+  ],
+  "71": [
+    {
+      "date": "Mar 10",
+      "price": 1951
+    },
+    {
+      "date": "Mar 11",
+      "price": 2000
+    },
+    {
+      "date": "Mar 12",
+      "price": 1975
+    },
+    {
+      "date": "Mar 13",
+      "price": 2037
+    },
+    {
+      "date": "Mar 14",
+      "price": 1987
+    },
+    {
+      "date": "Mar 15",
+      "price": 1956
+    },
+    {
+      "date": "Mar 16",
+      "price": 2039
+    },
+    {
+      "date": "Mar 17",
+      "price": 1959
+    },
+    {
+      "date": "Mar 18",
+      "price": 2025
+    },
+    {
+      "date": "Mar 19",
+      "price": 2007
+    },
+    {
+      "date": "Mar 20",
+      "price": 1577
+    },
+    {
+      "date": "Mar 21",
+      "price": 2058
+    },
+    {
+      "date": "Mar 22",
+      "price": 1979
+    },
+    {
+      "date": "Mar 23",
+      "price": 2041
+    },
+    {
+      "date": "Mar 24",
+      "price": 2094
+    },
+    {
+      "date": "Mar 25",
+      "price": 2066
+    },
+    {
+      "date": "Mar 26",
+      "price": 2011
+    },
+    {
+      "date": "Mar 27",
+      "price": 2009
+    },
+    {
+      "date": "Mar 28",
+      "price": 1951
+    },
+    {
+      "date": "Mar 29",
+      "price": 2011
+    },
+    {
+      "date": "Mar 30",
+      "price": 2019
+    },
+    {
+      "date": "Mar 31",
+      "price": 1984
+    },
+    {
+      "date": "Apr 01",
+      "price": 2045
+    },
+    {
+      "date": "Apr 02",
+      "price": 2031
+    },
+    {
+      "date": "Apr 03",
+      "price": 2036
+    },
+    {
+      "date": "Apr 04",
+      "price": 1972
+    },
+    {
+      "date": "Apr 05",
+      "price": 2027
+    },
+    {
+      "date": "Apr 06",
+      "price": 2047
+    },
+    {
+      "date": "Apr 07",
+      "price": 2005
+    },
+    {
+      "date": "Apr 08",
+      "price": 1583
+    },
+    {
+      "date": "Today",
+      "price": 2105
+    }
+  ],
+  "61": [
+    {
+      "date": "Mar 10",
+      "price": 4068
+    },
+    {
+      "date": "Mar 11",
+      "price": 4055
+    },
+    {
+      "date": "Mar 12",
+      "price": 3949
+    },
+    {
+      "date": "Mar 13",
+      "price": 4361
+    },
+    {
+      "date": "Mar 14",
+      "price": 3010
+    },
+    {
+      "date": "Mar 15",
+      "price": 4416
+    },
+    {
+      "date": "Mar 16",
+      "price": 3381
+    },
+    {
+      "date": "Mar 17",
+      "price": 4040
+    },
+    {
+      "date": "Mar 18",
+      "price": 3912
+    },
+    {
+      "date": "Mar 19",
+      "price": 3933
+    },
+    {
+      "date": "Mar 20",
+      "price": 4072
+    },
+    {
+      "date": "Mar 21",
+      "price": 3609
+    },
+    {
+      "date": "Mar 22",
+      "price": 3938
+    },
+    {
+      "date": "Mar 23",
+      "price": 4084
+    },
+    {
+      "date": "Mar 24",
+      "price": 3956
+    },
+    {
+      "date": "Mar 25",
+      "price": 4076
+    },
+    {
+      "date": "Mar 26",
+      "price": 4002
+    },
+    {
+      "date": "Mar 27",
+      "price": 4010
+    },
+    {
+      "date": "Mar 28",
+      "price": 3069
+    },
+    {
+      "date": "Mar 29",
+      "price": 4082
+    },
+    {
+      "date": "Mar 30",
+      "price": 4026
+    },
+    {
+      "date": "Mar 31",
+      "price": 3264
+    },
+    {
+      "date": "Apr 01",
+      "price": 3881
+    },
+    {
+      "date": "Apr 02",
+      "price": 4027
+    },
+    {
+      "date": "Apr 03",
+      "price": 3888
+    },
+    {
+      "date": "Apr 04",
+      "price": 3462
+    },
+    {
+      "date": "Apr 05",
+      "price": 3958
+    },
+    {
+      "date": "Apr 06",
+      "price": 4079
+    },
+    {
+      "date": "Apr 07",
+      "price": 3984
+    },
+    {
+      "date": "Apr 08",
+      "price": 4059
+    },
+    {
+      "date": "Apr 09 16:54",
+      "price": 3984
+    }
+  ],
+  "67": [
+    {
+      "date": "Mar 10",
+      "price": 1443
+    },
+    {
+      "date": "Mar 11",
+      "price": 1801
+    },
+    {
+      "date": "Mar 12",
+      "price": 1843
+    },
+    {
+      "date": "Mar 13",
+      "price": 1834
+    },
+    {
+      "date": "Mar 14",
+      "price": 1802
+    },
+    {
+      "date": "Mar 15",
+      "price": 1777
+    },
+    {
+      "date": "Mar 16",
+      "price": 1367
+    },
+    {
+      "date": "Mar 17",
+      "price": 1820
+    },
+    {
+      "date": "Mar 18",
+      "price": 1799
+    },
+    {
+      "date": "Mar 19",
+      "price": 1484
+    },
+    {
+      "date": "Mar 20",
+      "price": 1779
+    },
+    {
+      "date": "Mar 21",
+      "price": 1851
+    },
+    {
+      "date": "Mar 22",
+      "price": 1828
+    },
+    {
+      "date": "Mar 23",
+      "price": 1996
+    },
+    {
+      "date": "Mar 24",
+      "price": 1382
+    },
+    {
+      "date": "Mar 25",
+      "price": 1646
+    },
+    {
+      "date": "Mar 26",
+      "price": 1883
+    },
+    {
+      "date": "Mar 27",
+      "price": 1826
+    },
+    {
+      "date": "Mar 28",
+      "price": 1776
+    },
+    {
+      "date": "Mar 29",
+      "price": 1757
+    },
+    {
+      "date": "Mar 30",
+      "price": 1798
+    },
+    {
+      "date": "Mar 31",
+      "price": 1848
+    },
+    {
+      "date": "Apr 01",
+      "price": 1763
+    },
+    {
+      "date": "Apr 02",
+      "price": 1797
+    },
+    {
+      "date": "Apr 03",
+      "price": 1564
+    },
+    {
+      "date": "Apr 04",
+      "price": 1832
+    },
+    {
+      "date": "Apr 05",
+      "price": 1831
+    },
+    {
+      "date": "Apr 06",
+      "price": 1404
+    },
+    {
+      "date": "Apr 07",
+      "price": 1850
+    },
+    {
+      "date": "Apr 08",
+      "price": 1851
+    },
+    {
+      "date": "Today",
+      "price": 1766
+    }
+  ],
+  "80": [
+    {
+      "date": "Mar 10",
+      "price": 53461
+    },
+    {
+      "date": "Mar 11",
+      "price": 53542
+    },
+    {
+      "date": "Mar 12",
+      "price": 53530
+    },
+    {
+      "date": "Mar 13",
+      "price": 53094
+    },
+    {
+      "date": "Mar 14",
+      "price": 46129
+    },
+    {
+      "date": "Mar 15",
+      "price": 54211
+    },
+    {
+      "date": "Mar 16",
+      "price": 51355
+    },
+    {
+      "date": "Mar 17",
+      "price": 54065
+    },
+    {
+      "date": "Mar 18",
+      "price": 52161
+    },
+    {
+      "date": "Mar 19",
+      "price": 57150
+    },
+    {
+      "date": "Mar 20",
+      "price": 52194
+    },
+    {
+      "date": "Mar 21",
+      "price": 58971
+    },
+    {
+      "date": "Mar 22",
+      "price": 54124
+    },
+    {
+      "date": "Mar 23",
+      "price": 58246
+    },
+    {
+      "date": "Mar 24",
+      "price": 54136
+    },
+    {
+      "date": "Mar 25",
+      "price": 44654
+    },
+    {
+      "date": "Mar 26",
+      "price": 51727
+    },
+    {
+      "date": "Mar 27",
+      "price": 56342
+    },
+    {
+      "date": "Mar 28",
+      "price": 53646
+    },
+    {
+      "date": "Mar 29",
+      "price": 53012
+    },
+    {
+      "date": "Mar 30",
+      "price": 52023
+    },
+    {
+      "date": "Mar 31",
+      "price": 56210
+    },
+    {
+      "date": "Apr 01",
+      "price": 53796
+    },
+    {
+      "date": "Apr 02",
+      "price": 54447
+    },
+    {
+      "date": "Apr 03",
+      "price": 53939
+    },
+    {
+      "date": "Apr 04",
+      "price": 54227
+    },
+    {
+      "date": "Apr 05",
+      "price": 54306
+    },
+    {
+      "date": "Apr 06",
+      "price": 51902
+    },
+    {
+      "date": "Apr 07",
+      "price": 53121
+    },
+    {
+      "date": "Apr 08",
+      "price": 53223
+    },
+    {
+      "date": "Today",
+      "price": 53098
+    }
+  ],
+  "87": [
+    {
+      "date": "Mar 10",
+      "price": 9860
+    },
+    {
+      "date": "Mar 11",
+      "price": 13276
+    },
+    {
+      "date": "Mar 12",
+      "price": 12899
+    },
+    {
+      "date": "Mar 13",
+      "price": 12881
+    },
+    {
+      "date": "Mar 14",
+      "price": 13043
+    },
+    {
+      "date": "Mar 15",
+      "price": 13389
+    },
+    {
+      "date": "Mar 16",
+      "price": 12957
+    },
+    {
+      "date": "Mar 17",
+      "price": 12710
+    },
+    {
+      "date": "Mar 18",
+      "price": 13304
+    },
+    {
+      "date": "Mar 19",
+      "price": 13054
+    },
+    {
+      "date": "Mar 20",
+      "price": 12982
+    },
+    {
+      "date": "Mar 21",
+      "price": 10820
+    },
+    {
+      "date": "Mar 22",
+      "price": 13095
+    },
+    {
+      "date": "Mar 23",
+      "price": 13313
+    },
+    {
+      "date": "Mar 24",
+      "price": 12863
+    },
+    {
+      "date": "Mar 25",
+      "price": 11545
+    },
+    {
+      "date": "Mar 26",
+      "price": 13140
+    },
+    {
+      "date": "Mar 27",
+      "price": 13080
+    },
+    {
+      "date": "Mar 28",
+      "price": 12972
+    },
+    {
+      "date": "Mar 29",
+      "price": 12645
+    },
+    {
+      "date": "Mar 30",
+      "price": 12721
+    },
+    {
+      "date": "Mar 31",
+      "price": 9854
+    },
+    {
+      "date": "Apr 01",
+      "price": 12711
+    },
+    {
+      "date": "Apr 02",
+      "price": 13358
+    },
+    {
+      "date": "Apr 03",
+      "price": 13008
+    },
+    {
+      "date": "Apr 04",
+      "price": 12979
+    },
+    {
+      "date": "Apr 05",
+      "price": 13900
+    },
+    {
+      "date": "Apr 06",
+      "price": 13334
+    },
+    {
+      "date": "Apr 07",
+      "price": 11245
+    },
+    {
+      "date": "Apr 08",
+      "price": 13231
+    },
+    {
+      "date": "Today",
+      "price": 13523
+    }
+  ],
+  "70": [
+    {
+      "date": "Mar 10",
+      "price": 1458
+    },
+    {
+      "date": "Mar 11",
+      "price": 1286
+    },
+    {
+      "date": "Mar 12",
+      "price": 1338
+    },
+    {
+      "date": "Mar 13",
+      "price": 1491
+    },
+    {
+      "date": "Mar 14",
+      "price": 1457
+    },
+    {
+      "date": "Mar 15",
+      "price": 1674
+    },
+    {
+      "date": "Mar 16",
+      "price": 1536
+    },
+    {
+      "date": "Mar 17",
+      "price": 1536
+    },
+    {
+      "date": "Mar 18",
+      "price": 1539
+    },
+    {
+      "date": "Mar 19",
+      "price": 1522
+    },
+    {
+      "date": "Mar 20",
+      "price": 1503
+    },
+    {
+      "date": "Mar 21",
+      "price": 1499
+    },
+    {
+      "date": "Mar 22",
+      "price": 1509
+    },
+    {
+      "date": "Mar 23",
+      "price": 1502
+    },
+    {
+      "date": "Mar 24",
+      "price": 1518
+    },
+    {
+      "date": "Mar 25",
+      "price": 1188
+    },
+    {
+      "date": "Mar 26",
+      "price": 1479
+    },
+    {
+      "date": "Mar 27",
+      "price": 1591
+    },
+    {
+      "date": "Mar 28",
+      "price": 1497
+    },
+    {
+      "date": "Mar 29",
+      "price": 1639
+    },
+    {
+      "date": "Mar 30",
+      "price": 1340
+    },
+    {
+      "date": "Mar 31",
+      "price": 1524
+    },
+    {
+      "date": "Apr 01",
+      "price": 1495
+    },
+    {
+      "date": "Apr 02",
+      "price": 1602
+    },
+    {
+      "date": "Apr 03",
+      "price": 1472
+    },
+    {
+      "date": "Apr 04",
+      "price": 1456
+    },
+    {
+      "date": "Apr 05",
+      "price": 1536
+    },
+    {
+      "date": "Apr 06",
+      "price": 1523
+    },
+    {
+      "date": "Apr 07",
+      "price": 1272
+    },
+    {
+      "date": "Apr 08",
+      "price": 1475
+    },
+    {
+      "date": "Today",
+      "price": 1486
+    }
+  ],
+  "62": [
+    {
+      "date": "Mar 10",
+      "price": 4495
+    },
+    {
+      "date": "Mar 11",
+      "price": 4558
+    },
+    {
+      "date": "Mar 12",
+      "price": 4380
+    },
+    {
+      "date": "Mar 13",
+      "price": 3989
+    },
+    {
+      "date": "Mar 14",
+      "price": 4587
+    },
+    {
+      "date": "Mar 15",
+      "price": 4426
+    },
+    {
+      "date": "Mar 16",
+      "price": 4565
+    },
+    {
+      "date": "Mar 17",
+      "price": 4577
+    },
+    {
+      "date": "Mar 18",
+      "price": 4451
+    },
+    {
+      "date": "Mar 19",
+      "price": 4566
+    },
+    {
+      "date": "Mar 20",
+      "price": 4605
+    },
+    {
+      "date": "Mar 21",
+      "price": 4410
+    },
+    {
+      "date": "Mar 22",
+      "price": 4459
+    },
+    {
+      "date": "Mar 23",
+      "price": 4960
+    },
+    {
+      "date": "Mar 24",
+      "price": 3659
+    },
+    {
+      "date": "Mar 25",
+      "price": 4388
+    },
+    {
+      "date": "Mar 26",
+      "price": 4558
+    },
+    {
+      "date": "Mar 27",
+      "price": 4575
+    },
+    {
+      "date": "Mar 28",
+      "price": 4572
+    },
+    {
+      "date": "Mar 29",
+      "price": 4518
+    },
+    {
+      "date": "Mar 30",
+      "price": 4594
+    },
+    {
+      "date": "Mar 31",
+      "price": 4386
+    },
+    {
+      "date": "Apr 01",
+      "price": 4605
+    },
+    {
+      "date": "Apr 02",
+      "price": 4630
+    },
+    {
+      "date": "Apr 03",
+      "price": 4443
+    },
+    {
+      "date": "Apr 04",
+      "price": 3658
+    },
+    {
+      "date": "Apr 05",
+      "price": 4932
+    },
+    {
+      "date": "Apr 06",
+      "price": 3996
+    },
+    {
+      "date": "Apr 07",
+      "price": 4548
+    },
+    {
+      "date": "Apr 08",
+      "price": 4527
+    },
+    {
+      "date": "Today",
+      "price": 4501
+    }
+  ],
+  "68": [
+    {
+      "date": "Mar 10",
+      "price": 2955
+    },
+    {
+      "date": "Mar 11",
+      "price": 2397
+    },
+    {
+      "date": "Mar 12",
+      "price": 2968
+    },
+    {
+      "date": "Mar 13",
+      "price": 2419
+    },
+    {
+      "date": "Mar 14",
+      "price": 2574
+    },
+    {
+      "date": "Mar 15",
+      "price": 2911
+    },
+    {
+      "date": "Mar 16",
+      "price": 2955
+    },
+    {
+      "date": "Mar 17",
+      "price": 3020
+    },
+    {
+      "date": "Mar 18",
+      "price": 3013
+    },
+    {
+      "date": "Mar 19",
+      "price": 3048
+    },
+    {
+      "date": "Mar 20",
+      "price": 3193
+    },
+    {
+      "date": "Mar 21",
+      "price": 2983
+    },
+    {
+      "date": "Mar 22",
+      "price": 2994
+    },
+    {
+      "date": "Mar 23",
+      "price": 2958
+    },
+    {
+      "date": "Mar 24",
+      "price": 3046
+    },
+    {
+      "date": "Mar 25",
+      "price": 2399
+    },
+    {
+      "date": "Mar 26",
+      "price": 2973
+    },
+    {
+      "date": "Mar 27",
+      "price": 2493
+    },
+    {
+      "date": "Mar 28",
+      "price": 3056
+    },
+    {
+      "date": "Mar 29",
+      "price": 2751
+    },
+    {
+      "date": "Mar 30",
+      "price": 3008
+    },
+    {
+      "date": "Mar 31",
+      "price": 3067
+    },
+    {
+      "date": "Apr 01",
+      "price": 2972
+    },
+    {
+      "date": "Apr 02",
+      "price": 3119
+    },
+    {
+      "date": "Apr 03",
+      "price": 2937
+    },
+    {
+      "date": "Apr 04",
+      "price": 3039
+    },
+    {
+      "date": "Apr 05",
+      "price": 3043
+    },
+    {
+      "date": "Apr 06",
+      "price": 3011
+    },
+    {
+      "date": "Apr 07",
+      "price": 2921
+    },
+    {
+      "date": "Apr 08",
+      "price": 3023
+    },
+    {
+      "date": "Today",
+      "price": 2581
+    }
+  ],
+  "63": [
+    {
+      "date": "Mar 10",
+      "price": 2007
+    },
+    {
+      "date": "Mar 11",
+      "price": 1961
+    },
+    {
+      "date": "Mar 12",
+      "price": 1998
+    },
+    {
+      "date": "Mar 13",
+      "price": 1749
+    },
+    {
+      "date": "Mar 14",
+      "price": 2033
+    },
+    {
+      "date": "Mar 15",
+      "price": 2023
+    },
+    {
+      "date": "Mar 16",
+      "price": 2011
+    },
+    {
+      "date": "Mar 17",
+      "price": 2033
+    },
+    {
+      "date": "Mar 18",
+      "price": 1965
+    },
+    {
+      "date": "Mar 19",
+      "price": 1979
+    },
+    {
+      "date": "Mar 20",
+      "price": 2034
+    },
+    {
+      "date": "Mar 21",
+      "price": 2018
+    },
+    {
+      "date": "Mar 22",
+      "price": 2057
+    },
+    {
+      "date": "Mar 23",
+      "price": 1955
+    },
+    {
+      "date": "Mar 24",
+      "price": 1950
+    },
+    {
+      "date": "Mar 25",
+      "price": 2017
+    },
+    {
+      "date": "Mar 26",
+      "price": 2056
+    },
+    {
+      "date": "Mar 27",
+      "price": 1992
+    },
+    {
+      "date": "Mar 28",
+      "price": 1539
+    },
+    {
+      "date": "Mar 29",
+      "price": 1977
+    },
+    {
+      "date": "Mar 30",
+      "price": 1561
+    },
+    {
+      "date": "Mar 31",
+      "price": 1950
+    },
+    {
+      "date": "Apr 01",
+      "price": 2059
+    },
+    {
+      "date": "Apr 02",
+      "price": 1985
+    },
+    {
+      "date": "Apr 03",
+      "price": 1986
+    },
+    {
+      "date": "Apr 04",
+      "price": 2092
+    },
+    {
+      "date": "Apr 05",
+      "price": 1980
+    },
+    {
+      "date": "Apr 06",
+      "price": 1994
+    },
+    {
+      "date": "Apr 07",
+      "price": 2032
+    },
+    {
+      "date": "Apr 08",
+      "price": 1954
+    },
+    {
+      "date": "Today",
+      "price": 1967
+    }
+  ],
+  "98": [
+    {
+      "date": "Mar 10",
+      "price": 1853
+    },
+    {
+      "date": "Mar 11",
+      "price": 1847
+    },
+    {
+      "date": "Mar 12",
+      "price": 1793
+    },
+    {
+      "date": "Mar 13",
+      "price": 1825
+    },
+    {
+      "date": "Mar 14",
+      "price": 1839
+    },
+    {
+      "date": "Mar 15",
+      "price": 1555
+    },
+    {
+      "date": "Mar 16",
+      "price": 1970
+    },
+    {
+      "date": "Mar 17",
+      "price": 1755
+    },
+    {
+      "date": "Mar 18",
+      "price": 1773
+    },
+    {
+      "date": "Mar 19",
+      "price": 1797
+    },
+    {
+      "date": "Mar 20",
+      "price": 1817
+    },
+    {
+      "date": "Mar 21",
+      "price": 1781
+    },
+    {
+      "date": "Mar 22",
+      "price": 1780
+    },
+    {
+      "date": "Mar 23",
+      "price": 1759
+    },
+    {
+      "date": "Mar 24",
+      "price": 1356
+    },
+    {
+      "date": "Mar 25",
+      "price": 1754
+    },
+    {
+      "date": "Mar 26",
+      "price": 1428
+    },
+    {
+      "date": "Mar 27",
+      "price": 1838
+    },
+    {
+      "date": "Mar 28",
+      "price": 1801
+    },
+    {
+      "date": "Mar 29",
+      "price": 1844
+    },
+    {
+      "date": "Mar 30",
+      "price": 1904
+    },
+    {
+      "date": "Mar 31",
+      "price": 1546
+    },
+    {
+      "date": "Apr 01",
+      "price": 1809
+    },
+    {
+      "date": "Apr 02",
+      "price": 1747
+    },
+    {
+      "date": "Apr 03",
+      "price": 1797
+    },
+    {
+      "date": "Apr 04",
+      "price": 1791
+    },
+    {
+      "date": "Apr 05",
+      "price": 1367
+    },
+    {
+      "date": "Apr 06",
+      "price": 1775
+    },
+    {
+      "date": "Apr 07",
+      "price": 1376
+    },
+    {
+      "date": "Apr 08",
+      "price": 1830
+    },
+    {
+      "date": "Today",
+      "price": 1989
+    }
+  ],
+  "95": [
+    {
+      "date": "Mar 10",
+      "price": 1982
+    },
+    {
+      "date": "Mar 11",
+      "price": 1950
+    },
+    {
+      "date": "Mar 12",
+      "price": 1967
+    },
+    {
+      "date": "Mar 13",
+      "price": 2020
+    },
+    {
+      "date": "Mar 14",
+      "price": 2038
+    },
+    {
+      "date": "Mar 15",
+      "price": 1699
+    },
+    {
+      "date": "Mar 16",
+      "price": 1973
+    },
+    {
+      "date": "Mar 17",
+      "price": 2012
+    },
+    {
+      "date": "Mar 18",
+      "price": 2017
+    },
+    {
+      "date": "Mar 19",
+      "price": 1813
+    },
+    {
+      "date": "Mar 20",
+      "price": 1944
+    },
+    {
+      "date": "Mar 21",
+      "price": 2125
+    },
+    {
+      "date": "Mar 22",
+      "price": 2009
+    },
+    {
+      "date": "Mar 23",
+      "price": 1992
+    },
+    {
+      "date": "Mar 24",
+      "price": 1949
+    },
+    {
+      "date": "Mar 25",
+      "price": 1947
+    },
+    {
+      "date": "Mar 26",
+      "price": 2019
+    },
+    {
+      "date": "Mar 27",
+      "price": 1953
+    },
+    {
+      "date": "Mar 28",
+      "price": 2004
+    },
+    {
+      "date": "Mar 29",
+      "price": 2050
+    },
+    {
+      "date": "Mar 30",
+      "price": 1942
+    },
+    {
+      "date": "Mar 31",
+      "price": 2035
+    },
+    {
+      "date": "Apr 01",
+      "price": 2021
+    },
+    {
+      "date": "Apr 02",
+      "price": 2225
+    },
+    {
+      "date": "Apr 03",
+      "price": 2002
+    },
+    {
+      "date": "Apr 04",
+      "price": 2054
+    },
+    {
+      "date": "Apr 05",
+      "price": 2051
+    },
+    {
+      "date": "Apr 06",
+      "price": 2023
+    },
+    {
+      "date": "Apr 07",
+      "price": 2107
+    },
+    {
+      "date": "Apr 08",
+      "price": 1956
+    },
+    {
+      "date": "Today",
+      "price": 2036
+    }
+  ],
+  "96": [
+    {
+      "date": "Mar 10",
+      "price": 6147
+    },
+    {
+      "date": "Mar 11",
+      "price": 5902
+    },
+    {
+      "date": "Mar 12",
+      "price": 6140
+    },
+    {
+      "date": "Mar 13",
+      "price": 5964
+    },
+    {
+      "date": "Mar 14",
+      "price": 6164
+    },
+    {
+      "date": "Mar 15",
+      "price": 6682
+    },
+    {
+      "date": "Mar 16",
+      "price": 6137
+    },
+    {
+      "date": "Mar 17",
+      "price": 5821
+    },
+    {
+      "date": "Mar 18",
+      "price": 5826
+    },
+    {
+      "date": "Mar 19",
+      "price": 6514
+    },
+    {
+      "date": "Mar 20",
+      "price": 6176
+    },
+    {
+      "date": "Mar 21",
+      "price": 6066
+    },
+    {
+      "date": "Mar 22",
+      "price": 5941
+    },
+    {
+      "date": "Mar 23",
+      "price": 6125
+    },
+    {
+      "date": "Mar 24",
+      "price": 5849
+    },
+    {
+      "date": "Mar 25",
+      "price": 6097
+    },
+    {
+      "date": "Mar 26",
+      "price": 5976
+    },
+    {
+      "date": "Mar 27",
+      "price": 6069
+    },
+    {
+      "date": "Mar 28",
+      "price": 5973
+    },
+    {
+      "date": "Mar 29",
+      "price": 6108
+    },
+    {
+      "date": "Mar 30",
+      "price": 5963
+    },
+    {
+      "date": "Mar 31",
+      "price": 5917
+    },
+    {
+      "date": "Apr 01",
+      "price": 4855
+    },
+    {
+      "date": "Apr 02",
+      "price": 5925
+    },
+    {
+      "date": "Apr 03",
+      "price": 6246
+    },
+    {
+      "date": "Apr 04",
+      "price": 5911
+    },
+    {
+      "date": "Apr 05",
+      "price": 5928
+    },
+    {
+      "date": "Apr 06",
+      "price": 6399
+    },
+    {
+      "date": "Apr 07",
+      "price": 6396
+    },
+    {
+      "date": "Apr 08",
+      "price": 5905
+    },
+    {
+      "date": "Today",
+      "price": 5936
+    }
+  ],
+  "97": [
+    {
+      "date": "Mar 10",
+      "price": 3522
+    },
+    {
+      "date": "Mar 11",
+      "price": 3564
+    },
+    {
+      "date": "Mar 12",
+      "price": 3594
+    },
+    {
+      "date": "Mar 13",
+      "price": 3539
+    },
+    {
+      "date": "Mar 14",
+      "price": 3063
+    },
+    {
+      "date": "Mar 15",
+      "price": 3399
+    },
+    {
+      "date": "Mar 16",
+      "price": 3221
+    },
+    {
+      "date": "Mar 17",
+      "price": 3552
+    },
+    {
+      "date": "Mar 18",
+      "price": 3595
+    },
+    {
+      "date": "Mar 19",
+      "price": 3455
+    },
+    {
+      "date": "Mar 20",
+      "price": 3404
+    },
+    {
+      "date": "Mar 21",
+      "price": 3587
+    },
+    {
+      "date": "Mar 22",
+      "price": 3573
+    },
+    {
+      "date": "Mar 23",
+      "price": 3601
+    },
+    {
+      "date": "Mar 24",
+      "price": 3473
+    },
+    {
+      "date": "Mar 25",
+      "price": 3596
+    },
+    {
+      "date": "Mar 26",
+      "price": 2910
+    },
+    {
+      "date": "Mar 27",
+      "price": 3452
+    },
+    {
+      "date": "Mar 28",
+      "price": 3522
+    },
+    {
+      "date": "Mar 29",
+      "price": 3584
+    },
+    {
+      "date": "Mar 30",
+      "price": 3440
+    },
+    {
+      "date": "Mar 31",
+      "price": 3557
+    },
+    {
+      "date": "Apr 01",
+      "price": 3433
+    },
+    {
+      "date": "Apr 02",
+      "price": 3538
+    },
+    {
+      "date": "Apr 03",
+      "price": 2848
+    },
+    {
+      "date": "Apr 04",
+      "price": 3417
+    },
+    {
+      "date": "Apr 05",
+      "price": 3429
+    },
+    {
+      "date": "Apr 06",
+      "price": 3469
+    },
+    {
+      "date": "Apr 07",
+      "price": 3446
+    },
+    {
+      "date": "Apr 08",
+      "price": 3497
+    },
+    {
+      "date": "Today",
+      "price": 3790
+    }
+  ],
+  "37": [
+    {
+      "date": "Mar 10",
+      "price": 52376
+    },
+    {
+      "date": "Mar 11",
+      "price": 53775
+    },
+    {
+      "date": "Mar 12",
+      "price": 55848
+    },
+    {
+      "date": "Mar 13",
+      "price": 51751
+    },
+    {
+      "date": "Mar 14",
+      "price": 51977
+    },
+    {
+      "date": "Mar 15",
+      "price": 43250
+    },
+    {
+      "date": "Mar 16",
+      "price": 54352
+    },
+    {
+      "date": "Mar 17",
+      "price": 53011
+    },
+    {
+      "date": "Mar 18",
+      "price": 53901
+    },
+    {
+      "date": "Mar 19",
+      "price": 52101
+    },
+    {
+      "date": "Mar 20",
+      "price": 56356
+    },
+    {
+      "date": "Mar 21",
+      "price": 54015
+    },
+    {
+      "date": "Mar 22",
+      "price": 55544
+    },
+    {
+      "date": "Mar 23",
+      "price": 51411
+    },
+    {
+      "date": "Mar 24",
+      "price": 54184
+    },
+    {
+      "date": "Mar 25",
+      "price": 52189
+    },
+    {
+      "date": "Mar 26",
+      "price": 54412
+    },
+    {
+      "date": "Mar 27",
+      "price": 57626
+    },
+    {
+      "date": "Mar 28",
+      "price": 53909
+    },
+    {
+      "date": "Mar 29",
+      "price": 43532
+    },
+    {
+      "date": "Mar 30",
+      "price": 52769
+    },
+    {
+      "date": "Mar 31",
+      "price": 56780
+    },
+    {
+      "date": "Apr 01",
+      "price": 51492
+    },
+    {
+      "date": "Apr 02",
+      "price": 46931
+    },
+    {
+      "date": "Apr 03",
+      "price": 51666
+    },
+    {
+      "date": "Apr 04",
+      "price": 52151
+    },
+    {
+      "date": "Apr 05",
+      "price": 55253
+    },
+    {
+      "date": "Apr 06",
+      "price": 53157
+    },
+    {
+      "date": "Apr 07",
+      "price": 53523
+    },
+    {
+      "date": "Apr 08",
+      "price": 53603
+    },
+    {
+      "date": "Today",
+      "price": 51647
+    }
+  ],
+  "103": [
+    {
+      "date": "Mar 10",
+      "price": 1269
+    },
+    {
+      "date": "Mar 11",
+      "price": 1185
+    },
+    {
+      "date": "Mar 12",
+      "price": 1324
+    },
+    {
+      "date": "Mar 13",
+      "price": 1305
+    },
+    {
+      "date": "Mar 14",
+      "price": 1321
+    },
+    {
+      "date": "Mar 15",
+      "price": 1262
+    },
+    {
+      "date": "Mar 16",
+      "price": 1260
+    },
+    {
+      "date": "Mar 17",
+      "price": 1335
+    },
+    {
+      "date": "Mar 18",
+      "price": 1279
+    },
+    {
+      "date": "Mar 19",
+      "price": 1261
+    },
+    {
+      "date": "Mar 20",
+      "price": 1103
+    },
+    {
+      "date": "Mar 21",
+      "price": 1269
+    },
+    {
+      "date": "Mar 22",
+      "price": 1008
+    },
+    {
+      "date": "Mar 23",
+      "price": 1335
+    },
+    {
+      "date": "Mar 24",
+      "price": 1334
+    },
+    {
+      "date": "Mar 25",
+      "price": 1112
+    },
+    {
+      "date": "Mar 26",
+      "price": 1427
+    },
+    {
+      "date": "Mar 27",
+      "price": 1331
+    },
+    {
+      "date": "Mar 28",
+      "price": 1279
+    },
+    {
+      "date": "Mar 29",
+      "price": 1279
+    },
+    {
+      "date": "Mar 30",
+      "price": 1329
+    },
+    {
+      "date": "Mar 31",
+      "price": 1298
+    },
+    {
+      "date": "Apr 01",
+      "price": 1335
+    },
+    {
+      "date": "Apr 02",
+      "price": 1077
+    },
+    {
+      "date": "Apr 03",
+      "price": 1318
+    },
+    {
+      "date": "Apr 04",
+      "price": 1313
+    },
+    {
+      "date": "Apr 05",
+      "price": 1175
+    },
+    {
+      "date": "Apr 06",
+      "price": 1301
+    },
+    {
+      "date": "Apr 07",
+      "price": 1284
+    },
+    {
+      "date": "Apr 08",
+      "price": 1038
+    },
+    {
+      "date": "Today",
+      "price": 1319
+    }
+  ]
+}
