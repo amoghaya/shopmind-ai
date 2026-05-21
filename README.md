@@ -2,6 +2,15 @@
 
 Human-supervised autonomous shopping avatar with Hybrid-Neuro Bandit recommendations, a sandbox ecommerce site, adaptive user preference learning, price tracking, and a React demo dashboard.
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker)
+![AI Agents](https://img.shields.io/badge/AI-Multi--Agent-purple)
+![Contextual Bandits](https://img.shields.io/badge/ML-Hybrid%20Neuro%20Bandit-success)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## What This Project Is
 
 ShopMind AI is a B.Tech major project prototype that combines:
@@ -29,7 +38,7 @@ The main idea is:
 - SQLAlchemy
 - PostgreSQL for Dockerized runs
 - SQLite for lightweight local runs
-- Redis
+
 
 ### Frontend
 
@@ -50,9 +59,7 @@ The main idea is:
 
 - Docker
 - Docker Compose
-- Prometheus
-- Grafana
-- MLflow
+
 
 ## Main Features
 
@@ -86,31 +93,7 @@ The avatar and recommender learn from these actions:
 - `Autonomous buy`
   - simulated purchase flow that reinforces successful recommendation selection
 
-## Does A GitHub Clone Start With My Preferences?
 
-Yes, it can start fresh for each user, as long as you **do not commit your local runtime state**.
-
-Do **not** push these to GitHub:
-
-- `.env`
-- `shopmind.db`
-- `artifacts/`
-- `__pycache__/`
-- `.pytest_cache/`
-
-Why:
-
-- local profile memory is stored in the local database
-- if `shopmind.db` is committed, another user may inherit your saved `demo-user` profile
-- if `shopmind.db` is not committed, each clone will generate its own fresh local state
-- for Docker runs, each user gets their own local Postgres volume on their own machine
-
-Important current limitation:
-
-- the app currently uses a default demo persona id: `demo-user`
-- so one machine has one shared local demo profile unless you later add real user auth or user switching
-
-For GitHub submission, this is acceptable as long as the database is not committed.
 
 ## Project Structure
 
@@ -131,11 +114,6 @@ ai-shopping-avatar/ legacy prototype kept as reference
 
 ## Screenshots
 
-Add screenshots here before publishing:
-
-### Dashboard Banner
-
-`docs/screenshots/banner.png`
 
 ### AI Avatar Profile
 
@@ -294,43 +272,7 @@ Current baseline comparison:
 - Grafana documentation
 - MLflow documentation
 
-## What To Remove Before Pushing To GitHub
 
-Remove generated local/runtime files:
-
-- `shopmind.db`
-- `artifacts/`
-- `.pytest_cache/`
-- all `__pycache__/`
-- any local `node_modules/`
-- any local `dist/`
-
-Optional cleanup:
-
-- keep `ai-shopping-avatar/` if you want to preserve the legacy prototype as a reference
-- remove `ai-shopping-avatar/` if you want a cleaner final submission and you are no longer using it
-
-## Recommended Final GitHub Repo State
-
-Keep:
-
-- `backend/`
-- `frontend/`
-- `ml/`
-- `agents/`
-- `infra/`
-- `docker/`
-- `tests/`
-- `docs/`
-- `benchmarking/`
-
-Do not commit:
-
-- local DB
-- local env files
-- benchmark output artifacts
-- execution screenshots
-- caches
 
 ## License / Academic Note
 
